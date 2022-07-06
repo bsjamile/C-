@@ -1,0 +1,22 @@
+Lista ----------- List<string> UoU = new List<string> {"Maria", "Joao"}        ou      List<string> UoU = new List<string>();
+-----------------
+Precisa do using System.Collections.Generic;
+-------------
+Os pontos fracos do vetor são os pontos fortes da lista
+
+Tamanho variável = A lista começa vazia e a gnt vai acrescentando os dados
+O vetor precisa ser definido quantas posições no início
+
+Na lista é fácil vc adicionar e deletar dados
+
+A desvantagem é o acesso sequencial dos elementos.
+Ex: quer acessar o elemento da posicao 10, para isso vai percorrer todas as posicoes da 0 até chegar a 10.
+
+--------------------
+O Add adiciona por padrão ao final da lista = UoU.Add("Maria");
+O Insert podemos definir a posição. = UoU.Insert(2, "Marco");
+Tamanho da lista = UoU.Count;
+Primeiro Elemento = UoU.Find; ------- string s1 = UoU.Find(x => x[0] == 'A');
+Último Elemento = UoU.FindLast; --------- string s2 = UoU.FindLast(x => x[0] == 'A');
+Primeira Posição = UoU.FindIndex; ---------- string s3 = UoU.FindIndex(x => x[0] == 'A');
+Última Posição = UoU.FindLastIndex; ---------- string s4 = UoU.FindLastIndex(x => x[0] == 'A');

@@ -1,0 +1,15 @@
+C:\Users\Jamile\Desktop\Csharp\desafioHackerR\bin\Debug\net6.0\desafioHackerR.exe
+C:\Users\Jamile\Desktop\Csharp\desafioHackerR\bin\Debug\net6.0\desafioHackerR.deps.json
+C:\Users\Jamile\Desktop\Csharp\desafioHackerR\bin\Debug\net6.0\desafioHackerR.runtimeconfig.json
+C:\Users\Jamile\Desktop\Csharp\desafioHackerR\bin\Debug\net6.0\desafioHackerR.dll
+C:\Users\Jamile\Desktop\Csharp\desafioHackerR\bin\Debug\net6.0\desafioHackerR.pdb
+C:\Users\Jamile\Desktop\Csharp\desafioHackerR\obj\Debug\net6.0\desafioHackerR.csproj.AssemblyReference.cache
+C:\Users\Jamile\Desktop\Csharp\desafioHackerR\obj\Debug\net6.0\desafioHackerR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamile\Desktop\Csharp\desafioHackerR\obj\Debug\net6.0\desafioHackerR.AssemblyInfoInputs.cache
+C:\Users\Jamile\Desktop\Csharp\desafioHackerR\obj\Debug\net6.0\desafioHackerR.AssemblyInfo.cs
+C:\Users\Jamile\Desktop\Csharp\desafioHackerR\obj\Debug\net6.0\desafioHackerR.csproj.CoreCompileInputs.cache
+C:\Users\Jamile\Desktop\Csharp\desafioHackerR\obj\Debug\net6.0\desafioHackerR.dll
+C:\Users\Jamile\Desktop\Csharp\desafioHackerR\obj\Debug\net6.0\refint\desafioHackerR.dll
+C:\Users\Jamile\Desktop\Csharp\desafioHackerR\obj\Debug\net6.0\desafioHackerR.pdb
+C:\Users\Jamile\Desktop\Csharp\desafioHackerR\obj\Debug\net6.0\desafioHackerR.genruntimeconfig.cache
+C:\Users\Jamile\Desktop\Csharp\desafioHackerR\obj\Debug\net6.0\ref\desafioHackerR.dll

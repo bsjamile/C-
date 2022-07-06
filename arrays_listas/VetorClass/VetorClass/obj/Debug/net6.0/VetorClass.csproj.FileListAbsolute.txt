@@ -1,0 +1,15 @@
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\VetorClass\VetorClass\bin\Debug\net6.0\VetorClass.exe
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\VetorClass\VetorClass\bin\Debug\net6.0\VetorClass.deps.json
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\VetorClass\VetorClass\bin\Debug\net6.0\VetorClass.runtimeconfig.json
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\VetorClass\VetorClass\bin\Debug\net6.0\VetorClass.dll
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\VetorClass\VetorClass\bin\Debug\net6.0\VetorClass.pdb
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\VetorClass\VetorClass\obj\Debug\net6.0\VetorClass.csproj.AssemblyReference.cache
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\VetorClass\VetorClass\obj\Debug\net6.0\VetorClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\VetorClass\VetorClass\obj\Debug\net6.0\VetorClass.AssemblyInfoInputs.cache
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\VetorClass\VetorClass\obj\Debug\net6.0\VetorClass.AssemblyInfo.cs
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\VetorClass\VetorClass\obj\Debug\net6.0\VetorClass.csproj.CoreCompileInputs.cache
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\VetorClass\VetorClass\obj\Debug\net6.0\VetorClass.dll
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\VetorClass\VetorClass\obj\Debug\net6.0\refint\VetorClass.dll
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\VetorClass\VetorClass\obj\Debug\net6.0\VetorClass.pdb
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\VetorClass\VetorClass\obj\Debug\net6.0\VetorClass.genruntimeconfig.cache
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\VetorClass\VetorClass\obj\Debug\net6.0\ref\VetorClass.dll

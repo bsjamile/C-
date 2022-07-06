@@ -1,0 +1,15 @@
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\forEach\bin\Debug\net6.0\forEach.exe
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\forEach\bin\Debug\net6.0\forEach.deps.json
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\forEach\bin\Debug\net6.0\forEach.runtimeconfig.json
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\forEach\bin\Debug\net6.0\forEach.dll
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\forEach\bin\Debug\net6.0\forEach.pdb
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\forEach\obj\Debug\net6.0\forEach.csproj.AssemblyReference.cache
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\forEach\obj\Debug\net6.0\forEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\forEach\obj\Debug\net6.0\forEach.AssemblyInfoInputs.cache
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\forEach\obj\Debug\net6.0\forEach.AssemblyInfo.cs
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\forEach\obj\Debug\net6.0\forEach.csproj.CoreCompileInputs.cache
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\forEach\obj\Debug\net6.0\forEach.dll
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\forEach\obj\Debug\net6.0\refint\forEach.dll
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\forEach\obj\Debug\net6.0\forEach.pdb
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\forEach\obj\Debug\net6.0\forEach.genruntimeconfig.cache
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\forEach\obj\Debug\net6.0\ref\forEach.dll

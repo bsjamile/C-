@@ -1,0 +1,15 @@
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\ExercVetor\ExercVetor\bin\Debug\net6.0\ExercVetor.exe
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\ExercVetor\ExercVetor\bin\Debug\net6.0\ExercVetor.deps.json
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\ExercVetor\ExercVetor\bin\Debug\net6.0\ExercVetor.runtimeconfig.json
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\ExercVetor\ExercVetor\bin\Debug\net6.0\ExercVetor.dll
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\ExercVetor\ExercVetor\bin\Debug\net6.0\ExercVetor.pdb
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\ExercVetor\ExercVetor\obj\Debug\net6.0\ExercVetor.csproj.AssemblyReference.cache
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\ExercVetor\ExercVetor\obj\Debug\net6.0\ExercVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\ExercVetor\ExercVetor\obj\Debug\net6.0\ExercVetor.AssemblyInfoInputs.cache
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\ExercVetor\ExercVetor\obj\Debug\net6.0\ExercVetor.AssemblyInfo.cs
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\ExercVetor\ExercVetor\obj\Debug\net6.0\ExercVetor.csproj.CoreCompileInputs.cache
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\ExercVetor\ExercVetor\obj\Debug\net6.0\ExercVetor.dll
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\ExercVetor\ExercVetor\obj\Debug\net6.0\refint\ExercVetor.dll
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\ExercVetor\ExercVetor\obj\Debug\net6.0\ExercVetor.pdb
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\ExercVetor\ExercVetor\obj\Debug\net6.0\ExercVetor.genruntimeconfig.cache
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\ExercVetor\ExercVetor\obj\Debug\net6.0\ref\ExercVetor.dll

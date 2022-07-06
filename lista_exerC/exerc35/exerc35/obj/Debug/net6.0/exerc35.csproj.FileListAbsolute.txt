@@ -1,0 +1,15 @@
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exerc35\exerc35\bin\Debug\net6.0\exerc35.exe
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exerc35\exerc35\bin\Debug\net6.0\exerc35.deps.json
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exerc35\exerc35\bin\Debug\net6.0\exerc35.runtimeconfig.json
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exerc35\exerc35\bin\Debug\net6.0\exerc35.dll
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exerc35\exerc35\bin\Debug\net6.0\exerc35.pdb
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exerc35\exerc35\obj\Debug\net6.0\exerc35.csproj.AssemblyReference.cache
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exerc35\exerc35\obj\Debug\net6.0\exerc35.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exerc35\exerc35\obj\Debug\net6.0\exerc35.AssemblyInfoInputs.cache
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exerc35\exerc35\obj\Debug\net6.0\exerc35.AssemblyInfo.cs
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exerc35\exerc35\obj\Debug\net6.0\exerc35.csproj.CoreCompileInputs.cache
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exerc35\exerc35\obj\Debug\net6.0\exerc35.dll
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exerc35\exerc35\obj\Debug\net6.0\refint\exerc35.dll
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exerc35\exerc35\obj\Debug\net6.0\exerc35.pdb
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exerc35\exerc35\obj\Debug\net6.0\exerc35.genruntimeconfig.cache
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exerc35\exerc35\obj\Debug\net6.0\ref\exerc35.dll

@@ -1,0 +1,15 @@
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\Repeticoes\Repeticoes\bin\Debug\net6.0\Repeticoes.exe
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\Repeticoes\Repeticoes\bin\Debug\net6.0\Repeticoes.deps.json
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\Repeticoes\Repeticoes\bin\Debug\net6.0\Repeticoes.runtimeconfig.json
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\Repeticoes\Repeticoes\bin\Debug\net6.0\Repeticoes.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\Repeticoes\Repeticoes\bin\Debug\net6.0\Repeticoes.pdb
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\Repeticoes\Repeticoes\obj\Debug\net6.0\Repeticoes.csproj.AssemblyReference.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\Repeticoes\Repeticoes\obj\Debug\net6.0\Repeticoes.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\Repeticoes\Repeticoes\obj\Debug\net6.0\Repeticoes.AssemblyInfoInputs.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\Repeticoes\Repeticoes\obj\Debug\net6.0\Repeticoes.AssemblyInfo.cs
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\Repeticoes\Repeticoes\obj\Debug\net6.0\Repeticoes.csproj.CoreCompileInputs.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\Repeticoes\Repeticoes\obj\Debug\net6.0\Repeticoes.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\Repeticoes\Repeticoes\obj\Debug\net6.0\refint\Repeticoes.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\Repeticoes\Repeticoes\obj\Debug\net6.0\Repeticoes.pdb
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\Repeticoes\Repeticoes\obj\Debug\net6.0\Repeticoes.genruntimeconfig.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\Repeticoes\Repeticoes\obj\Debug\net6.0\ref\Repeticoes.dll

@@ -1,0 +1,15 @@
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\ExercFixacao\bin\Debug\net6.0\ExercFixacao.exe
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\ExercFixacao\bin\Debug\net6.0\ExercFixacao.deps.json
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\ExercFixacao\bin\Debug\net6.0\ExercFixacao.runtimeconfig.json
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\ExercFixacao\bin\Debug\net6.0\ExercFixacao.dll
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\ExercFixacao\bin\Debug\net6.0\ExercFixacao.pdb
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\ExercFixacao\obj\Debug\net6.0\ExercFixacao.csproj.AssemblyReference.cache
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\ExercFixacao\obj\Debug\net6.0\ExercFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\ExercFixacao\obj\Debug\net6.0\ExercFixacao.AssemblyInfoInputs.cache
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\ExercFixacao\obj\Debug\net6.0\ExercFixacao.AssemblyInfo.cs
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\ExercFixacao\obj\Debug\net6.0\ExercFixacao.csproj.CoreCompileInputs.cache
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\ExercFixacao\obj\Debug\net6.0\ExercFixacao.dll
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\ExercFixacao\obj\Debug\net6.0\refint\ExercFixacao.dll
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\ExercFixacao\obj\Debug\net6.0\ExercFixacao.pdb
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\ExercFixacao\obj\Debug\net6.0\ExercFixacao.genruntimeconfig.cache
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\ExercFixacao\obj\Debug\net6.0\ref\ExercFixacao.dll

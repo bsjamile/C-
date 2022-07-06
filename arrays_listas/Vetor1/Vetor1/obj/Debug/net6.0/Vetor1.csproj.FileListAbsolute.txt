@@ -1,0 +1,15 @@
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\Vetor1\Vetor1\bin\Debug\net6.0\Vetor1.exe
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\Vetor1\Vetor1\bin\Debug\net6.0\Vetor1.deps.json
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\Vetor1\Vetor1\bin\Debug\net6.0\Vetor1.runtimeconfig.json
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\Vetor1\Vetor1\bin\Debug\net6.0\Vetor1.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\Vetor1\Vetor1\bin\Debug\net6.0\Vetor1.pdb
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\Vetor1\Vetor1\obj\Debug\net6.0\Vetor1.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\Vetor1\Vetor1\obj\Debug\net6.0\Vetor1.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\Vetor1\Vetor1\obj\Debug\net6.0\Vetor1.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\Vetor1\Vetor1\obj\Debug\net6.0\Vetor1.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\Vetor1\Vetor1\obj\Debug\net6.0\Vetor1.csproj.CoreCompileInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\Vetor1\Vetor1\obj\Debug\net6.0\Vetor1.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\Vetor1\Vetor1\obj\Debug\net6.0\refint\Vetor1.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\Vetor1\Vetor1\obj\Debug\net6.0\Vetor1.pdb
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\Vetor1\Vetor1\obj\Debug\net6.0\Vetor1.genruntimeconfig.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\Vetor1\Vetor1\obj\Debug\net6.0\ref\Vetor1.dll

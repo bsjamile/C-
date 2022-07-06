@@ -1,0 +1,15 @@
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exerc20\exerc20\bin\Debug\net6.0\exerc20.exe
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exerc20\exerc20\bin\Debug\net6.0\exerc20.deps.json
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exerc20\exerc20\bin\Debug\net6.0\exerc20.runtimeconfig.json
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exerc20\exerc20\bin\Debug\net6.0\exerc20.dll
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exerc20\exerc20\bin\Debug\net6.0\exerc20.pdb
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exerc20\exerc20\obj\Debug\net6.0\exerc20.csproj.AssemblyReference.cache
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exerc20\exerc20\obj\Debug\net6.0\exerc20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exerc20\exerc20\obj\Debug\net6.0\exerc20.AssemblyInfoInputs.cache
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exerc20\exerc20\obj\Debug\net6.0\exerc20.AssemblyInfo.cs
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exerc20\exerc20\obj\Debug\net6.0\exerc20.csproj.CoreCompileInputs.cache
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exerc20\exerc20\obj\Debug\net6.0\exerc20.dll
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exerc20\exerc20\obj\Debug\net6.0\refint\exerc20.dll
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exerc20\exerc20\obj\Debug\net6.0\exerc20.pdb
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exerc20\exerc20\obj\Debug\net6.0\exerc20.genruntimeconfig.cache
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exerc20\exerc20\obj\Debug\net6.0\ref\exerc20.dll

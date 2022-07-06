@@ -1,0 +1,15 @@
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\aula5horas\aula5horas\bin\Debug\net6.0\aula5horas.exe
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\aula5horas\aula5horas\bin\Debug\net6.0\aula5horas.deps.json
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\aula5horas\aula5horas\bin\Debug\net6.0\aula5horas.runtimeconfig.json
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\aula5horas\aula5horas\bin\Debug\net6.0\aula5horas.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\aula5horas\aula5horas\bin\Debug\net6.0\aula5horas.pdb
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\aula5horas\aula5horas\obj\Debug\net6.0\aula5horas.csproj.AssemblyReference.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\aula5horas\aula5horas\obj\Debug\net6.0\aula5horas.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\aula5horas\aula5horas\obj\Debug\net6.0\aula5horas.AssemblyInfoInputs.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\aula5horas\aula5horas\obj\Debug\net6.0\aula5horas.AssemblyInfo.cs
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\aula5horas\aula5horas\obj\Debug\net6.0\aula5horas.csproj.CoreCompileInputs.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\aula5horas\aula5horas\obj\Debug\net6.0\aula5horas.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\aula5horas\aula5horas\obj\Debug\net6.0\refint\aula5horas.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\aula5horas\aula5horas\obj\Debug\net6.0\aula5horas.pdb
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\aula5horas\aula5horas\obj\Debug\net6.0\aula5horas.genruntimeconfig.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\aula5horas\aula5horas\obj\Debug\net6.0\ref\aula5horas.dll

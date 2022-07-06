@@ -1,0 +1,10 @@
+Vetor
+-----------------------------------------------
+Console.Write("Qtd de pessoas: ");
+int.TryParse(Console.ReadLine(), out int qtd);
+
+double [] lalala = new double[qtd];
+
+vetor da Class
+----------
+Produto [] lalala = new Produto[10]; //10 é o tamanho do vetor

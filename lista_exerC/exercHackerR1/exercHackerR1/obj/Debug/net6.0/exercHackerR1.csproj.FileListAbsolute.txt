@@ -1,0 +1,15 @@
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exercHackerR1\exercHackerR1\bin\Debug\net6.0\exercHackerR1.exe
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exercHackerR1\exercHackerR1\bin\Debug\net6.0\exercHackerR1.deps.json
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exercHackerR1\exercHackerR1\bin\Debug\net6.0\exercHackerR1.runtimeconfig.json
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exercHackerR1\exercHackerR1\bin\Debug\net6.0\exercHackerR1.dll
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exercHackerR1\exercHackerR1\bin\Debug\net6.0\exercHackerR1.pdb
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exercHackerR1\exercHackerR1\obj\Debug\net6.0\exercHackerR1.csproj.AssemblyReference.cache
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exercHackerR1\exercHackerR1\obj\Debug\net6.0\exercHackerR1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exercHackerR1\exercHackerR1\obj\Debug\net6.0\exercHackerR1.AssemblyInfoInputs.cache
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exercHackerR1\exercHackerR1\obj\Debug\net6.0\exercHackerR1.AssemblyInfo.cs
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exercHackerR1\exercHackerR1\obj\Debug\net6.0\exercHackerR1.csproj.CoreCompileInputs.cache
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exercHackerR1\exercHackerR1\obj\Debug\net6.0\exercHackerR1.dll
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exercHackerR1\exercHackerR1\obj\Debug\net6.0\refint\exercHackerR1.dll
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exercHackerR1\exercHackerR1\obj\Debug\net6.0\exercHackerR1.pdb
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exercHackerR1\exercHackerR1\obj\Debug\net6.0\exercHackerR1.genruntimeconfig.cache
+C:\Users\Jamile\Desktop\Csharp\lista_exerC\exercHackerR1\exercHackerR1\obj\Debug\net6.0\ref\exercHackerR1.dll

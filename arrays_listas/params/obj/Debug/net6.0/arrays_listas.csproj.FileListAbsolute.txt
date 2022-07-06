@@ -1,0 +1,15 @@
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\params\bin\Debug\net6.0\arrays_listas.exe
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\params\bin\Debug\net6.0\arrays_listas.deps.json
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\params\bin\Debug\net6.0\arrays_listas.runtimeconfig.json
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\params\bin\Debug\net6.0\arrays_listas.dll
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\params\bin\Debug\net6.0\arrays_listas.pdb
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\params\obj\Debug\net6.0\arrays_listas.csproj.AssemblyReference.cache
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\params\obj\Debug\net6.0\arrays_listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\params\obj\Debug\net6.0\arrays_listas.AssemblyInfoInputs.cache
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\params\obj\Debug\net6.0\arrays_listas.AssemblyInfo.cs
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\params\obj\Debug\net6.0\arrays_listas.csproj.CoreCompileInputs.cache
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\params\obj\Debug\net6.0\arrays_listas.dll
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\params\obj\Debug\net6.0\refint\arrays_listas.dll
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\params\obj\Debug\net6.0\arrays_listas.pdb
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\params\obj\Debug\net6.0\arrays_listas.genruntimeconfig.cache
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\params\obj\Debug\net6.0\ref\arrays_listas.dll

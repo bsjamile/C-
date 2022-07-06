@@ -1,0 +1,15 @@
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\EnumSwitch\EnumSwitch\obj\Debug\net6.0\MenuComEnumSwitch.csproj.AssemblyReference.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\EnumSwitch\EnumSwitch\obj\Debug\net6.0\MenuComEnumSwitch.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\EnumSwitch\EnumSwitch\obj\Debug\net6.0\MenuComEnumSwitch.AssemblyInfoInputs.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\EnumSwitch\EnumSwitch\obj\Debug\net6.0\MenuComEnumSwitch.AssemblyInfo.cs
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\EnumSwitch\EnumSwitch\obj\Debug\net6.0\MenuComEnumSwitch.csproj.CoreCompileInputs.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\EnumSwitch\EnumSwitch\bin\Debug\net6.0\MenuComEnumSwitch.exe
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\EnumSwitch\EnumSwitch\bin\Debug\net6.0\MenuComEnumSwitch.deps.json
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\EnumSwitch\EnumSwitch\bin\Debug\net6.0\MenuComEnumSwitch.runtimeconfig.json
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\EnumSwitch\EnumSwitch\bin\Debug\net6.0\MenuComEnumSwitch.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\EnumSwitch\EnumSwitch\bin\Debug\net6.0\MenuComEnumSwitch.pdb
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\EnumSwitch\EnumSwitch\obj\Debug\net6.0\MenuComEnumSwitch.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\EnumSwitch\EnumSwitch\obj\Debug\net6.0\refint\MenuComEnumSwitch.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\EnumSwitch\EnumSwitch\obj\Debug\net6.0\MenuComEnumSwitch.pdb
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\EnumSwitch\EnumSwitch\obj\Debug\net6.0\MenuComEnumSwitch.genruntimeconfig.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\EnumSwitch\EnumSwitch\obj\Debug\net6.0\ref\MenuComEnumSwitch.dll

@@ -1,0 +1,15 @@
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\modif_param\bin\Debug\net6.0\modif_param.exe
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\modif_param\bin\Debug\net6.0\modif_param.deps.json
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\modif_param\bin\Debug\net6.0\modif_param.runtimeconfig.json
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\modif_param\bin\Debug\net6.0\modif_param.dll
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\modif_param\bin\Debug\net6.0\modif_param.pdb
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\modif_param\obj\Debug\net6.0\modif_param.csproj.AssemblyReference.cache
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\modif_param\obj\Debug\net6.0\modif_param.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\modif_param\obj\Debug\net6.0\modif_param.AssemblyInfoInputs.cache
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\modif_param\obj\Debug\net6.0\modif_param.AssemblyInfo.cs
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\modif_param\obj\Debug\net6.0\modif_param.csproj.CoreCompileInputs.cache
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\modif_param\obj\Debug\net6.0\modif_param.dll
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\modif_param\obj\Debug\net6.0\refint\modif_param.dll
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\modif_param\obj\Debug\net6.0\modif_param.pdb
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\modif_param\obj\Debug\net6.0\modif_param.genruntimeconfig.cache
+C:\Users\Jamile\Desktop\Csharp\arrays_listas\modif_param\obj\Debug\net6.0\ref\modif_param.dll

@@ -1,0 +1,33 @@
+Aula C# 5 horas
+--------------------------
+C# é uma linguagem que podemos fazer inúmeras coisas, aplicativos, sites, app desktop, app móvel
+	Então a linguagem é dividida em vários módulos;
+	using System;
+	using System.Coollections.Generic;
+	using System.Linq; etc
+
+uma variavel com tipagem dinamica, inicializada como dynamic, pode ser alterada sem ser definido o tipo da variavel.
+	Ex: dynamic cor = "Azul"; cor = 1; cor = 'A'
+quando executado o return, há uma "quebra do programa", ou seja, não processa dados após o return.
+função do tipo void não há returno;
+array = só recebe dados do mesmo tipo
+switch = só realiza operação de igualdade, ou seja, não pode trabalhar com operadores operacionais, por exemplo.
+enums (enumeração) é uma das formas de vc criar um novo tipo de dados dentro do seu programa
+	Novo tipo de dados que tem um conjunto limitado de valores
+	Os valores strings do enum não estão entre "" e os dados são apenas os definidos dentro do enum e cada dado é representado por um número 0, 1, 2;
+	Todo enum pode ser convertido para número --- Console.WriteLine((int)corFavorita); --- retorna a posicao;
+	O número tbm pode ser convertido para enum --- Console.WriteLine((Cor)2); ---- retorna a cor na posição 2 do enum Cor;
+foreach == para cada palavra no array palavras, repita o bloco de códigos
+
+------------
+Abstração = abstrair da vida real e conseguir representar na linguagem computacional;
+	Objeto composto por:
+		identidade
+		propriedades
+		métodos
+		
+Encapsulamento = proteção de variáveis importantes dentro de uma classe que não podem ser manipuladas diretamente.
+herança = possibilita o reaproveitamento do código fonte; Ex: cachorro herda de mamifero.
+polimorfismo = significa várias formas: consiste na alteração do funcionamento interno de um método interno herdado de um objeto pai. 
+
+	
