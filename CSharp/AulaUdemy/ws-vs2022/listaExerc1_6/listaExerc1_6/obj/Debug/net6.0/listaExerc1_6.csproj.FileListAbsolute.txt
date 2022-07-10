@@ -1,0 +1,15 @@
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\listaExerc1_6\listaExerc1_6\bin\Debug\net6.0\listaExerc1_6.exe
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\listaExerc1_6\listaExerc1_6\bin\Debug\net6.0\listaExerc1_6.deps.json
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\listaExerc1_6\listaExerc1_6\bin\Debug\net6.0\listaExerc1_6.runtimeconfig.json
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\listaExerc1_6\listaExerc1_6\bin\Debug\net6.0\listaExerc1_6.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\listaExerc1_6\listaExerc1_6\bin\Debug\net6.0\listaExerc1_6.pdb
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\listaExerc1_6\listaExerc1_6\obj\Debug\net6.0\listaExerc1_6.csproj.AssemblyReference.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\listaExerc1_6\listaExerc1_6\obj\Debug\net6.0\listaExerc1_6.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\listaExerc1_6\listaExerc1_6\obj\Debug\net6.0\listaExerc1_6.AssemblyInfoInputs.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\listaExerc1_6\listaExerc1_6\obj\Debug\net6.0\listaExerc1_6.AssemblyInfo.cs
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\listaExerc1_6\listaExerc1_6\obj\Debug\net6.0\listaExerc1_6.csproj.CoreCompileInputs.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\listaExerc1_6\listaExerc1_6\obj\Debug\net6.0\listaExerc1_6.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\listaExerc1_6\listaExerc1_6\obj\Debug\net6.0\refint\listaExerc1_6.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\listaExerc1_6\listaExerc1_6\obj\Debug\net6.0\listaExerc1_6.pdb
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\listaExerc1_6\listaExerc1_6\obj\Debug\net6.0\listaExerc1_6.genruntimeconfig.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\listaExerc1_6\listaExerc1_6\obj\Debug\net6.0\ref\listaExerc1_6.dll

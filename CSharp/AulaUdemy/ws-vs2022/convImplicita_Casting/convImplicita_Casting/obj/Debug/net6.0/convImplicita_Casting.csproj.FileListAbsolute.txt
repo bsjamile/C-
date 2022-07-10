@@ -1,0 +1,15 @@
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\convImplicita_Casting\convImplicita_Casting\bin\Debug\net6.0\convImplicita_Casting.exe
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\convImplicita_Casting\convImplicita_Casting\bin\Debug\net6.0\convImplicita_Casting.deps.json
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\convImplicita_Casting\convImplicita_Casting\bin\Debug\net6.0\convImplicita_Casting.runtimeconfig.json
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\convImplicita_Casting\convImplicita_Casting\bin\Debug\net6.0\convImplicita_Casting.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\convImplicita_Casting\convImplicita_Casting\bin\Debug\net6.0\convImplicita_Casting.pdb
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\convImplicita_Casting\convImplicita_Casting\obj\Debug\net6.0\convImplicita_Casting.csproj.AssemblyReference.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\convImplicita_Casting\convImplicita_Casting\obj\Debug\net6.0\convImplicita_Casting.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\convImplicita_Casting\convImplicita_Casting\obj\Debug\net6.0\convImplicita_Casting.AssemblyInfoInputs.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\convImplicita_Casting\convImplicita_Casting\obj\Debug\net6.0\convImplicita_Casting.AssemblyInfo.cs
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\convImplicita_Casting\convImplicita_Casting\obj\Debug\net6.0\convImplicita_Casting.csproj.CoreCompileInputs.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\convImplicita_Casting\convImplicita_Casting\obj\Debug\net6.0\convImplicita_Casting.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\convImplicita_Casting\convImplicita_Casting\obj\Debug\net6.0\refint\convImplicita_Casting.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\convImplicita_Casting\convImplicita_Casting\obj\Debug\net6.0\convImplicita_Casting.pdb
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\convImplicita_Casting\convImplicita_Casting\obj\Debug\net6.0\convImplicita_Casting.genruntimeconfig.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\convImplicita_Casting\convImplicita_Casting\obj\Debug\net6.0\ref\convImplicita_Casting.dll

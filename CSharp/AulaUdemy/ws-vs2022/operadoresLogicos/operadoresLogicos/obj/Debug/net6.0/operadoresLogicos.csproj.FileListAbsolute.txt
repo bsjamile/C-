@@ -1,0 +1,15 @@
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresLogicos\operadoresLogicos\bin\Debug\net6.0\operadoresLogicos.exe
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresLogicos\operadoresLogicos\bin\Debug\net6.0\operadoresLogicos.deps.json
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresLogicos\operadoresLogicos\bin\Debug\net6.0\operadoresLogicos.runtimeconfig.json
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresLogicos\operadoresLogicos\bin\Debug\net6.0\operadoresLogicos.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresLogicos\operadoresLogicos\bin\Debug\net6.0\operadoresLogicos.pdb
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresLogicos\operadoresLogicos\obj\Debug\net6.0\operadoresLogicos.csproj.AssemblyReference.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresLogicos\operadoresLogicos\obj\Debug\net6.0\operadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresLogicos\operadoresLogicos\obj\Debug\net6.0\operadoresLogicos.AssemblyInfoInputs.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresLogicos\operadoresLogicos\obj\Debug\net6.0\operadoresLogicos.AssemblyInfo.cs
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresLogicos\operadoresLogicos\obj\Debug\net6.0\operadoresLogicos.csproj.CoreCompileInputs.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresLogicos\operadoresLogicos\obj\Debug\net6.0\operadoresLogicos.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresLogicos\operadoresLogicos\obj\Debug\net6.0\refint\operadoresLogicos.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresLogicos\operadoresLogicos\obj\Debug\net6.0\operadoresLogicos.pdb
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresLogicos\operadoresLogicos\obj\Debug\net6.0\operadoresLogicos.genruntimeconfig.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresLogicos\operadoresLogicos\obj\Debug\net6.0\ref\operadoresLogicos.dll

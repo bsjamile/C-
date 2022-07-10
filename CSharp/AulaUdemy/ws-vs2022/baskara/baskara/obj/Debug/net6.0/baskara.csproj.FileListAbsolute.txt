@@ -1,0 +1,30 @@
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\baskara\baskara\bin\Debug\net6.0\baskara.exe
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\baskara\baskara\bin\Debug\net6.0\baskara.deps.json
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\baskara\baskara\bin\Debug\net6.0\baskara.runtimeconfig.json
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\baskara\baskara\bin\Debug\net6.0\baskara.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\baskara\baskara\bin\Debug\net6.0\baskara.pdb
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\baskara\baskara\obj\Debug\net6.0\baskara.csproj.AssemblyReference.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\baskara\baskara\obj\Debug\net6.0\baskara.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\baskara\baskara\obj\Debug\net6.0\baskara.AssemblyInfoInputs.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\baskara\baskara\obj\Debug\net6.0\baskara.AssemblyInfo.cs
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\baskara\baskara\obj\Debug\net6.0\baskara.csproj.CoreCompileInputs.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\baskara\baskara\obj\Debug\net6.0\baskara.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\baskara\baskara\obj\Debug\net6.0\refint\baskara.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\baskara\baskara\obj\Debug\net6.0\baskara.pdb
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\baskara\baskara\obj\Debug\net6.0\baskara.genruntimeconfig.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\baskara\baskara\obj\Debug\net6.0\ref\baskara.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\ws-vs2019\baskara\baskara\bin\Debug\net6.0\baskara.exe
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\ws-vs2019\baskara\baskara\bin\Debug\net6.0\baskara.deps.json
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\ws-vs2019\baskara\baskara\bin\Debug\net6.0\baskara.runtimeconfig.json
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\ws-vs2019\baskara\baskara\bin\Debug\net6.0\baskara.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\ws-vs2019\baskara\baskara\bin\Debug\net6.0\baskara.pdb
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\ws-vs2019\baskara\baskara\obj\Debug\net6.0\baskara.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\ws-vs2019\baskara\baskara\obj\Debug\net6.0\baskara.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\ws-vs2019\baskara\baskara\obj\Debug\net6.0\baskara.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\ws-vs2019\baskara\baskara\obj\Debug\net6.0\baskara.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\ws-vs2019\baskara\baskara\obj\Debug\net6.0\baskara.csproj.CoreCompileInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\ws-vs2019\baskara\baskara\obj\Debug\net6.0\baskara.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\ws-vs2019\baskara\baskara\obj\Debug\net6.0\refint\baskara.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\ws-vs2019\baskara\baskara\obj\Debug\net6.0\baskara.pdb
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\ws-vs2019\baskara\baskara\obj\Debug\net6.0\baskara.genruntimeconfig.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\ws-vs2019\baskara\baskara\obj\Debug\net6.0\ref\baskara.dll

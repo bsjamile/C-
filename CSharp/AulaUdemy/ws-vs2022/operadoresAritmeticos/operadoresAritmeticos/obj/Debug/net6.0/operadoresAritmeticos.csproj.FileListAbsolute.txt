@@ -1,0 +1,15 @@
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresAritmeticos\operadoresAritmeticos\bin\Debug\net6.0\operadoresAritmeticos.exe
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresAritmeticos\operadoresAritmeticos\bin\Debug\net6.0\operadoresAritmeticos.deps.json
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresAritmeticos\operadoresAritmeticos\bin\Debug\net6.0\operadoresAritmeticos.runtimeconfig.json
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresAritmeticos\operadoresAritmeticos\bin\Debug\net6.0\operadoresAritmeticos.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresAritmeticos\operadoresAritmeticos\bin\Debug\net6.0\operadoresAritmeticos.pdb
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresAritmeticos\operadoresAritmeticos\obj\Debug\net6.0\operadoresAritmeticos.csproj.AssemblyReference.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresAritmeticos\operadoresAritmeticos\obj\Debug\net6.0\operadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresAritmeticos\operadoresAritmeticos\obj\Debug\net6.0\operadoresAritmeticos.AssemblyInfoInputs.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresAritmeticos\operadoresAritmeticos\obj\Debug\net6.0\operadoresAritmeticos.AssemblyInfo.cs
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresAritmeticos\operadoresAritmeticos\obj\Debug\net6.0\operadoresAritmeticos.csproj.CoreCompileInputs.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresAritmeticos\operadoresAritmeticos\obj\Debug\net6.0\operadoresAritmeticos.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresAritmeticos\operadoresAritmeticos\obj\Debug\net6.0\refint\operadoresAritmeticos.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresAritmeticos\operadoresAritmeticos\obj\Debug\net6.0\operadoresAritmeticos.pdb
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresAritmeticos\operadoresAritmeticos\obj\Debug\net6.0\operadoresAritmeticos.genruntimeconfig.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresAritmeticos\operadoresAritmeticos\obj\Debug\net6.0\ref\operadoresAritmeticos.dll

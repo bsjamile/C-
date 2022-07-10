@@ -1,0 +1,33 @@
+﻿int a = 10;
+Console.WriteLine(a);
+
+a += 2;
+Console.WriteLine(a);
+
+a *= 3;
+Console.WriteLine(a);
+
+string s = "ABC";
+Console.WriteLine(s);
+
+s += "DEF";
+Console.WriteLine(s);
+
+int x = 20;
+x++;
+Console.WriteLine(x);
+++x;
+Console.WriteLine(x);
+
+int b = 10;
+b++;
+Console.WriteLine(b);
+
+int c = ++b;
+Console.WriteLine(c);
+
+c = b++;
+Console.WriteLine(c);
+
+b--;
+Console.WriteLine(b);

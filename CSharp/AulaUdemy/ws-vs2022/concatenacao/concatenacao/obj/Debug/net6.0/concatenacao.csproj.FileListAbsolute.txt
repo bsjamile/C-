@@ -1,0 +1,15 @@
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\concatenacao\concatenacao\bin\Debug\net6.0\concatenacao.exe
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\concatenacao\concatenacao\bin\Debug\net6.0\concatenacao.deps.json
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\concatenacao\concatenacao\bin\Debug\net6.0\concatenacao.runtimeconfig.json
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\concatenacao\concatenacao\bin\Debug\net6.0\concatenacao.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\concatenacao\concatenacao\bin\Debug\net6.0\concatenacao.pdb
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\concatenacao\concatenacao\obj\Debug\net6.0\concatenacao.csproj.AssemblyReference.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\concatenacao\concatenacao\obj\Debug\net6.0\concatenacao.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\concatenacao\concatenacao\obj\Debug\net6.0\concatenacao.AssemblyInfoInputs.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\concatenacao\concatenacao\obj\Debug\net6.0\concatenacao.AssemblyInfo.cs
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\concatenacao\concatenacao\obj\Debug\net6.0\concatenacao.csproj.CoreCompileInputs.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\concatenacao\concatenacao\obj\Debug\net6.0\concatenacao.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\concatenacao\concatenacao\obj\Debug\net6.0\refint\concatenacao.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\concatenacao\concatenacao\obj\Debug\net6.0\concatenacao.pdb
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\concatenacao\concatenacao\obj\Debug\net6.0\concatenacao.genruntimeconfig.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\concatenacao\concatenacao\obj\Debug\net6.0\ref\concatenacao.dll

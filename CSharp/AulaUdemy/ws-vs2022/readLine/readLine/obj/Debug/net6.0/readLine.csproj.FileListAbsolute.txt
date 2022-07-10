@@ -1,0 +1,30 @@
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\readLine\readLine\bin\Debug\net6.0\readLine.exe
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\readLine\readLine\bin\Debug\net6.0\readLine.deps.json
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\readLine\readLine\bin\Debug\net6.0\readLine.runtimeconfig.json
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\readLine\readLine\bin\Debug\net6.0\readLine.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\readLine\readLine\bin\Debug\net6.0\readLine.pdb
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\readLine\readLine\obj\Debug\net6.0\readLine.csproj.AssemblyReference.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\readLine\readLine\obj\Debug\net6.0\readLine.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\readLine\readLine\obj\Debug\net6.0\readLine.AssemblyInfoInputs.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\readLine\readLine\obj\Debug\net6.0\readLine.AssemblyInfo.cs
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\readLine\readLine\obj\Debug\net6.0\readLine.csproj.CoreCompileInputs.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\readLine\readLine\obj\Debug\net6.0\readLine.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\readLine\readLine\obj\Debug\net6.0\refint\readLine.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\readLine\readLine\obj\Debug\net6.0\readLine.pdb
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\readLine\readLine\obj\Debug\net6.0\readLine.genruntimeconfig.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\readLine\readLine\obj\Debug\net6.0\ref\readLine.dll
+h:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\ws-vs2019\readLine\readLine\bin\Debug\net6.0\readLine.exe
+h:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\ws-vs2019\readLine\readLine\bin\Debug\net6.0\readLine.deps.json
+h:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\ws-vs2019\readLine\readLine\bin\Debug\net6.0\readLine.runtimeconfig.json
+h:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\ws-vs2019\readLine\readLine\bin\Debug\net6.0\readLine.dll
+h:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\ws-vs2019\readLine\readLine\bin\Debug\net6.0\readLine.pdb
+h:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\ws-vs2019\readLine\readLine\obj\Debug\net6.0\readLine.csproj.AssemblyReference.cache
+h:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\ws-vs2019\readLine\readLine\obj\Debug\net6.0\readLine.GeneratedMSBuildEditorConfig.editorconfig
+h:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\ws-vs2019\readLine\readLine\obj\Debug\net6.0\readLine.AssemblyInfoInputs.cache
+h:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\ws-vs2019\readLine\readLine\obj\Debug\net6.0\readLine.AssemblyInfo.cs
+h:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\ws-vs2019\readLine\readLine\obj\Debug\net6.0\readLine.csproj.CoreCompileInputs.cache
+h:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\ws-vs2019\readLine\readLine\obj\Debug\net6.0\readLine.dll
+h:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\ws-vs2019\readLine\readLine\obj\Debug\net6.0\refint\readLine.dll
+h:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\ws-vs2019\readLine\readLine\obj\Debug\net6.0\readLine.pdb
+h:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\ws-vs2019\readLine\readLine\obj\Debug\net6.0\readLine.genruntimeconfig.cache
+h:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\ws-vs2019\readLine\readLine\obj\Debug\net6.0\ref\readLine.dll

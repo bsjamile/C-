@@ -1,0 +1,15 @@
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\condicional_if_else_if\condicional_if_else_if\bin\Debug\net6.0\condicional_if_else_if.exe
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\condicional_if_else_if\condicional_if_else_if\bin\Debug\net6.0\condicional_if_else_if.deps.json
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\condicional_if_else_if\condicional_if_else_if\bin\Debug\net6.0\condicional_if_else_if.runtimeconfig.json
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\condicional_if_else_if\condicional_if_else_if\bin\Debug\net6.0\condicional_if_else_if.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\condicional_if_else_if\condicional_if_else_if\bin\Debug\net6.0\condicional_if_else_if.pdb
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\condicional_if_else_if\condicional_if_else_if\obj\Debug\net6.0\condicional_if_else_if.csproj.AssemblyReference.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\condicional_if_else_if\condicional_if_else_if\obj\Debug\net6.0\condicional_if_else_if.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\condicional_if_else_if\condicional_if_else_if\obj\Debug\net6.0\condicional_if_else_if.AssemblyInfoInputs.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\condicional_if_else_if\condicional_if_else_if\obj\Debug\net6.0\condicional_if_else_if.AssemblyInfo.cs
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\condicional_if_else_if\condicional_if_else_if\obj\Debug\net6.0\condicional_if_else_if.csproj.CoreCompileInputs.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\condicional_if_else_if\condicional_if_else_if\obj\Debug\net6.0\condicional_if_else_if.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\condicional_if_else_if\condicional_if_else_if\obj\Debug\net6.0\refint\condicional_if_else_if.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\condicional_if_else_if\condicional_if_else_if\obj\Debug\net6.0\condicional_if_else_if.pdb
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\condicional_if_else_if\condicional_if_else_if\obj\Debug\net6.0\condicional_if_else_if.genruntimeconfig.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\condicional_if_else_if\condicional_if_else_if\obj\Debug\net6.0\ref\condicional_if_else_if.dll

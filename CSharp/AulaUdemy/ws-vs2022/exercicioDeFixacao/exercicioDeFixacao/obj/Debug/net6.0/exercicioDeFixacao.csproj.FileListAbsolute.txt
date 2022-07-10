@@ -1,0 +1,15 @@
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\exercicioDeFixacao\exercicioDeFixacao\bin\Debug\net6.0\exercicioDeFixacao.exe
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\exercicioDeFixacao\exercicioDeFixacao\bin\Debug\net6.0\exercicioDeFixacao.deps.json
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\exercicioDeFixacao\exercicioDeFixacao\bin\Debug\net6.0\exercicioDeFixacao.runtimeconfig.json
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\exercicioDeFixacao\exercicioDeFixacao\bin\Debug\net6.0\exercicioDeFixacao.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\exercicioDeFixacao\exercicioDeFixacao\bin\Debug\net6.0\exercicioDeFixacao.pdb
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\exercicioDeFixacao\exercicioDeFixacao\obj\Debug\net6.0\exercicioDeFixacao.csproj.AssemblyReference.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\exercicioDeFixacao\exercicioDeFixacao\obj\Debug\net6.0\exercicioDeFixacao.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\exercicioDeFixacao\exercicioDeFixacao\obj\Debug\net6.0\exercicioDeFixacao.AssemblyInfoInputs.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\exercicioDeFixacao\exercicioDeFixacao\obj\Debug\net6.0\exercicioDeFixacao.AssemblyInfo.cs
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\exercicioDeFixacao\exercicioDeFixacao\obj\Debug\net6.0\exercicioDeFixacao.csproj.CoreCompileInputs.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\exercicioDeFixacao\exercicioDeFixacao\obj\Debug\net6.0\exercicioDeFixacao.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\exercicioDeFixacao\exercicioDeFixacao\obj\Debug\net6.0\refint\exercicioDeFixacao.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\exercicioDeFixacao\exercicioDeFixacao\obj\Debug\net6.0\exercicioDeFixacao.pdb
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\exercicioDeFixacao\exercicioDeFixacao\obj\Debug\net6.0\exercicioDeFixacao.genruntimeconfig.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\exercicioDeFixacao\exercicioDeFixacao\obj\Debug\net6.0\ref\exercicioDeFixacao.dll

@@ -1,0 +1,5 @@
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\ws-vs2019\listaExerc2_1\listaExerc2_1\obj\Debug\net6.0\listaExerc2_1.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\ws-vs2019\listaExerc2_1\listaExerc2_1\obj\Debug\net6.0\listaExerc2_1.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\ws-vs2019\listaExerc2_1\listaExerc2_1\obj\Debug\net6.0\listaExerc2_1.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\ws-vs2019\listaExerc2_1\listaExerc2_1\obj\Debug\net6.0\listaExerc2_1.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\ws-vs2019\listaExerc2_1\listaExerc2_1\obj\Debug\net6.0\listaExerc2_1.csproj.CoreCompileInputs.cache

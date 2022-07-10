@@ -1,0 +1,15 @@
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresComparativos\operadoresComparativos\bin\Debug\net6.0\operadoresComparativos.exe
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresComparativos\operadoresComparativos\bin\Debug\net6.0\operadoresComparativos.deps.json
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresComparativos\operadoresComparativos\bin\Debug\net6.0\operadoresComparativos.runtimeconfig.json
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresComparativos\operadoresComparativos\bin\Debug\net6.0\operadoresComparativos.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresComparativos\operadoresComparativos\bin\Debug\net6.0\operadoresComparativos.pdb
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresComparativos\operadoresComparativos\obj\Debug\net6.0\operadoresComparativos.csproj.AssemblyReference.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresComparativos\operadoresComparativos\obj\Debug\net6.0\operadoresComparativos.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresComparativos\operadoresComparativos\obj\Debug\net6.0\operadoresComparativos.AssemblyInfoInputs.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresComparativos\operadoresComparativos\obj\Debug\net6.0\operadoresComparativos.AssemblyInfo.cs
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresComparativos\operadoresComparativos\obj\Debug\net6.0\operadoresComparativos.csproj.CoreCompileInputs.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresComparativos\operadoresComparativos\obj\Debug\net6.0\operadoresComparativos.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresComparativos\operadoresComparativos\obj\Debug\net6.0\refint\operadoresComparativos.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresComparativos\operadoresComparativos\obj\Debug\net6.0\operadoresComparativos.pdb
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresComparativos\operadoresComparativos\obj\Debug\net6.0\operadoresComparativos.genruntimeconfig.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\operadoresComparativos\operadoresComparativos\obj\Debug\net6.0\ref\operadoresComparativos.dll

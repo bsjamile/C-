@@ -1,0 +1,15 @@
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\saidaDeDados\saidaDeDados\bin\Debug\net6.0\saidaDeDados.exe
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\saidaDeDados\saidaDeDados\bin\Debug\net6.0\saidaDeDados.deps.json
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\saidaDeDados\saidaDeDados\bin\Debug\net6.0\saidaDeDados.runtimeconfig.json
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\saidaDeDados\saidaDeDados\bin\Debug\net6.0\saidaDeDados.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\saidaDeDados\saidaDeDados\bin\Debug\net6.0\saidaDeDados.pdb
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\saidaDeDados\saidaDeDados\obj\Debug\net6.0\saidaDeDados.csproj.AssemblyReference.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\saidaDeDados\saidaDeDados\obj\Debug\net6.0\saidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\saidaDeDados\saidaDeDados\obj\Debug\net6.0\saidaDeDados.AssemblyInfoInputs.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\saidaDeDados\saidaDeDados\obj\Debug\net6.0\saidaDeDados.AssemblyInfo.cs
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\saidaDeDados\saidaDeDados\obj\Debug\net6.0\saidaDeDados.csproj.CoreCompileInputs.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\saidaDeDados\saidaDeDados\obj\Debug\net6.0\saidaDeDados.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\saidaDeDados\saidaDeDados\obj\Debug\net6.0\refint\saidaDeDados.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\saidaDeDados\saidaDeDados\obj\Debug\net6.0\saidaDeDados.pdb
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\saidaDeDados\saidaDeDados\obj\Debug\net6.0\saidaDeDados.genruntimeconfig.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\saidaDeDados\saidaDeDados\obj\Debug\net6.0\ref\saidaDeDados.dll

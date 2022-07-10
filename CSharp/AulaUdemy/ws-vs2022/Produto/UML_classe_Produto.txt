@@ -1,0 +1,11 @@
+UML Produto
+--------------------------------------
+Classe: Produto
+--------------------------------------
+Atributos: - Nome : string
+Atributos: - Preco : double
+Atributos: - Quantidade : int
+-------------------------------------
+Métodos: ValorTotalEmEstoque() : double
+Métodos: AdicionarProdutos(quantity : int) : void
+Métodos: RemoverProdutos(quantity : int) : void

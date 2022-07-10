@@ -1,0 +1,15 @@
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\consoleReadLine\consoleReadLine\bin\Debug\net6.0\consoleReadLine.exe
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\consoleReadLine\consoleReadLine\bin\Debug\net6.0\consoleReadLine.deps.json
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\consoleReadLine\consoleReadLine\bin\Debug\net6.0\consoleReadLine.runtimeconfig.json
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\consoleReadLine\consoleReadLine\bin\Debug\net6.0\consoleReadLine.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\consoleReadLine\consoleReadLine\bin\Debug\net6.0\consoleReadLine.pdb
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\consoleReadLine\consoleReadLine\obj\Debug\net6.0\consoleReadLine.csproj.AssemblyReference.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\consoleReadLine\consoleReadLine\obj\Debug\net6.0\consoleReadLine.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\consoleReadLine\consoleReadLine\obj\Debug\net6.0\consoleReadLine.AssemblyInfoInputs.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\consoleReadLine\consoleReadLine\obj\Debug\net6.0\consoleReadLine.AssemblyInfo.cs
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\consoleReadLine\consoleReadLine\obj\Debug\net6.0\consoleReadLine.csproj.CoreCompileInputs.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\consoleReadLine\consoleReadLine\obj\Debug\net6.0\consoleReadLine.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\consoleReadLine\consoleReadLine\obj\Debug\net6.0\refint\consoleReadLine.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\consoleReadLine\consoleReadLine\obj\Debug\net6.0\consoleReadLine.pdb
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\consoleReadLine\consoleReadLine\obj\Debug\net6.0\consoleReadLine.genruntimeconfig.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\CSharp Udemy\01.Cessao2\ws-vs2019\consoleReadLine\consoleReadLine\obj\Debug\net6.0\ref\consoleReadLine.dll
