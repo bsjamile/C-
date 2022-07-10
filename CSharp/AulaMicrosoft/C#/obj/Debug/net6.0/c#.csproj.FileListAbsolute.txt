@@ -1,0 +1,45 @@
+C:\Users\Jamile\Documents\MeusProjetos\Desafio_WomankersCode\c#\bin\Debug\net6.0\c#.exe
+C:\Users\Jamile\Documents\MeusProjetos\Desafio_WomankersCode\c#\bin\Debug\net6.0\c#.deps.json
+C:\Users\Jamile\Documents\MeusProjetos\Desafio_WomankersCode\c#\bin\Debug\net6.0\c#.runtimeconfig.json
+C:\Users\Jamile\Documents\MeusProjetos\Desafio_WomankersCode\c#\bin\Debug\net6.0\c#.dll
+C:\Users\Jamile\Documents\MeusProjetos\Desafio_WomankersCode\c#\bin\Debug\net6.0\ref\c#.dll
+C:\Users\Jamile\Documents\MeusProjetos\Desafio_WomankersCode\c#\bin\Debug\net6.0\c#.pdb
+C:\Users\Jamile\Documents\MeusProjetos\Desafio_WomankersCode\c#\obj\Debug\net6.0\c#.csproj.AssemblyReference.cache
+C:\Users\Jamile\Documents\MeusProjetos\Desafio_WomankersCode\c#\obj\Debug\net6.0\c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamile\Documents\MeusProjetos\Desafio_WomankersCode\c#\obj\Debug\net6.0\c#.AssemblyInfoInputs.cache
+C:\Users\Jamile\Documents\MeusProjetos\Desafio_WomankersCode\c#\obj\Debug\net6.0\c#.AssemblyInfo.cs
+C:\Users\Jamile\Documents\MeusProjetos\Desafio_WomankersCode\c#\obj\Debug\net6.0\c#.csproj.CoreCompileInputs.cache
+C:\Users\Jamile\Documents\MeusProjetos\Desafio_WomankersCode\c#\obj\Debug\net6.0\c#.dll
+C:\Users\Jamile\Documents\MeusProjetos\Desafio_WomankersCode\c#\obj\Debug\net6.0\ref\c#.dll
+C:\Users\Jamile\Documents\MeusProjetos\Desafio_WomankersCode\c#\obj\Debug\net6.0\c#.pdb
+C:\Users\Jamile\Documents\MeusProjetos\Desafio_WomankersCode\c#\obj\Debug\net6.0\c#.genruntimeconfig.cache
+C:\Users\Jamile\Documents\MeusProjetos\WomakersCodeC\C#\bin\Debug\net6.0\c#.exe
+C:\Users\Jamile\Documents\MeusProjetos\WomakersCodeC\C#\bin\Debug\net6.0\c#.deps.json
+C:\Users\Jamile\Documents\MeusProjetos\WomakersCodeC\C#\bin\Debug\net6.0\c#.runtimeconfig.json
+C:\Users\Jamile\Documents\MeusProjetos\WomakersCodeC\C#\bin\Debug\net6.0\c#.dll
+C:\Users\Jamile\Documents\MeusProjetos\WomakersCodeC\C#\bin\Debug\net6.0\ref\c#.dll
+C:\Users\Jamile\Documents\MeusProjetos\WomakersCodeC\C#\bin\Debug\net6.0\c#.pdb
+C:\Users\Jamile\Documents\MeusProjetos\WomakersCodeC\C#\obj\Debug\net6.0\c#.csproj.AssemblyReference.cache
+C:\Users\Jamile\Documents\MeusProjetos\WomakersCodeC\C#\obj\Debug\net6.0\c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamile\Documents\MeusProjetos\WomakersCodeC\C#\obj\Debug\net6.0\c#.AssemblyInfoInputs.cache
+C:\Users\Jamile\Documents\MeusProjetos\WomakersCodeC\C#\obj\Debug\net6.0\c#.AssemblyInfo.cs
+C:\Users\Jamile\Documents\MeusProjetos\WomakersCodeC\C#\obj\Debug\net6.0\c#.csproj.CoreCompileInputs.cache
+C:\Users\Jamile\Documents\MeusProjetos\WomakersCodeC\C#\obj\Debug\net6.0\c#.dll
+C:\Users\Jamile\Documents\MeusProjetos\WomakersCodeC\C#\obj\Debug\net6.0\ref\c#.dll
+C:\Users\Jamile\Documents\MeusProjetos\WomakersCodeC\C#\obj\Debug\net6.0\c#.pdb
+C:\Users\Jamile\Documents\MeusProjetos\WomakersCodeC\C#\obj\Debug\net6.0\c#.genruntimeconfig.cache
+H:\Meu Drive\GitHub\MeusProjetos\WomakersCodeC\C#\bin\Debug\net6.0\c#.exe
+H:\Meu Drive\GitHub\MeusProjetos\WomakersCodeC\C#\bin\Debug\net6.0\c#.deps.json
+H:\Meu Drive\GitHub\MeusProjetos\WomakersCodeC\C#\bin\Debug\net6.0\c#.runtimeconfig.json
+H:\Meu Drive\GitHub\MeusProjetos\WomakersCodeC\C#\bin\Debug\net6.0\c#.dll
+H:\Meu Drive\GitHub\MeusProjetos\WomakersCodeC\C#\bin\Debug\net6.0\c#.pdb
+H:\Meu Drive\GitHub\MeusProjetos\WomakersCodeC\C#\obj\Debug\net6.0\c#.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\WomakersCodeC\C#\obj\Debug\net6.0\c#.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\WomakersCodeC\C#\obj\Debug\net6.0\c#.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\WomakersCodeC\C#\obj\Debug\net6.0\c#.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\WomakersCodeC\C#\obj\Debug\net6.0\c#.csproj.CoreCompileInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\WomakersCodeC\C#\obj\Debug\net6.0\c#.dll
+H:\Meu Drive\GitHub\MeusProjetos\WomakersCodeC\C#\obj\Debug\net6.0\refint\c#.dll
+H:\Meu Drive\GitHub\MeusProjetos\WomakersCodeC\C#\obj\Debug\net6.0\c#.pdb
+H:\Meu Drive\GitHub\MeusProjetos\WomakersCodeC\C#\obj\Debug\net6.0\c#.genruntimeconfig.cache
+H:\Meu Drive\GitHub\MeusProjetos\WomakersCodeC\C#\obj\Debug\net6.0\ref\c#.dll

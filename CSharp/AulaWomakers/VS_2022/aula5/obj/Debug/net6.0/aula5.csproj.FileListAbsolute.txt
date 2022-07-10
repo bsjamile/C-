@@ -1,0 +1,30 @@
+C:\Users\Jamile\Desktop\aula1c\aula5\bin\Debug\net6.0\aula5.exe
+C:\Users\Jamile\Desktop\aula1c\aula5\bin\Debug\net6.0\aula5.deps.json
+C:\Users\Jamile\Desktop\aula1c\aula5\bin\Debug\net6.0\aula5.runtimeconfig.json
+C:\Users\Jamile\Desktop\aula1c\aula5\bin\Debug\net6.0\aula5.dll
+C:\Users\Jamile\Desktop\aula1c\aula5\bin\Debug\net6.0\aula5.pdb
+C:\Users\Jamile\Desktop\aula1c\aula5\obj\Debug\net6.0\aula5.csproj.AssemblyReference.cache
+C:\Users\Jamile\Desktop\aula1c\aula5\obj\Debug\net6.0\aula5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamile\Desktop\aula1c\aula5\obj\Debug\net6.0\aula5.AssemblyInfoInputs.cache
+C:\Users\Jamile\Desktop\aula1c\aula5\obj\Debug\net6.0\aula5.AssemblyInfo.cs
+C:\Users\Jamile\Desktop\aula1c\aula5\obj\Debug\net6.0\aula5.csproj.CoreCompileInputs.cache
+C:\Users\Jamile\Desktop\aula1c\aula5\obj\Debug\net6.0\aula5.dll
+C:\Users\Jamile\Desktop\aula1c\aula5\obj\Debug\net6.0\refint\aula5.dll
+C:\Users\Jamile\Desktop\aula1c\aula5\obj\Debug\net6.0\aula5.pdb
+C:\Users\Jamile\Desktop\aula1c\aula5\obj\Debug\net6.0\aula5.genruntimeconfig.cache
+C:\Users\Jamile\Desktop\aula1c\aula5\obj\Debug\net6.0\ref\aula5.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\aula5\bin\Debug\net6.0\aula5.exe
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\aula5\bin\Debug\net6.0\aula5.deps.json
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\aula5\bin\Debug\net6.0\aula5.runtimeconfig.json
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\aula5\bin\Debug\net6.0\aula5.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\aula5\bin\Debug\net6.0\aula5.pdb
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\aula5\obj\Debug\net6.0\aula5.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\aula5\obj\Debug\net6.0\aula5.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\aula5\obj\Debug\net6.0\aula5.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\aula5\obj\Debug\net6.0\aula5.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\aula5\obj\Debug\net6.0\aula5.csproj.CoreCompileInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\aula5\obj\Debug\net6.0\aula5.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\aula5\obj\Debug\net6.0\refint\aula5.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\aula5\obj\Debug\net6.0\aula5.pdb
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\aula5\obj\Debug\net6.0\aula5.genruntimeconfig.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\aula5\obj\Debug\net6.0\ref\aula5.dll

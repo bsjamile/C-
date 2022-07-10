@@ -1,0 +1,15 @@
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\NomesMetodos1\NomesMetodos1\obj\Debug\net6.0\NomesMetodos1.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\NomesMetodos1\NomesMetodos1\obj\Debug\net6.0\NomesMetodos1.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\NomesMetodos1\NomesMetodos1\obj\Debug\net6.0\NomesMetodos1.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\NomesMetodos1\NomesMetodos1\obj\Debug\net6.0\NomesMetodos1.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\NomesMetodos1\NomesMetodos1\obj\Debug\net6.0\NomesMetodos1.csproj.CoreCompileInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\NomesMetodos1\NomesMetodos1\bin\Debug\net6.0\NomesMetodos1.exe
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\NomesMetodos1\NomesMetodos1\bin\Debug\net6.0\NomesMetodos1.deps.json
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\NomesMetodos1\NomesMetodos1\bin\Debug\net6.0\NomesMetodos1.runtimeconfig.json
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\NomesMetodos1\NomesMetodos1\bin\Debug\net6.0\NomesMetodos1.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\NomesMetodos1\NomesMetodos1\bin\Debug\net6.0\NomesMetodos1.pdb
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\NomesMetodos1\NomesMetodos1\obj\Debug\net6.0\NomesMetodos1.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\NomesMetodos1\NomesMetodos1\obj\Debug\net6.0\refint\NomesMetodos1.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\NomesMetodos1\NomesMetodos1\obj\Debug\net6.0\NomesMetodos1.pdb
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\NomesMetodos1\NomesMetodos1\obj\Debug\net6.0\NomesMetodos1.genruntimeconfig.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\NomesMetodos1\NomesMetodos1\obj\Debug\net6.0\ref\NomesMetodos1.dll

@@ -1,0 +1,30 @@
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\testando\testando\bin\Debug\net6.0\testando.exe
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\testando\testando\bin\Debug\net6.0\testando.deps.json
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\testando\testando\bin\Debug\net6.0\testando.runtimeconfig.json
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\testando\testando\bin\Debug\net6.0\testando.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\testando\testando\bin\Debug\net6.0\testando.pdb
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\testando\testando\obj\Debug\net6.0\testando.csproj.AssemblyReference.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\testando\testando\obj\Debug\net6.0\testando.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\testando\testando\obj\Debug\net6.0\testando.AssemblyInfoInputs.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\testando\testando\obj\Debug\net6.0\testando.AssemblyInfo.cs
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\testando\testando\obj\Debug\net6.0\testando.csproj.CoreCompileInputs.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\testando\testando\obj\Debug\net6.0\testando.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\testando\testando\obj\Debug\net6.0\refint\testando.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\testando\testando\obj\Debug\net6.0\testando.pdb
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\testando\testando\obj\Debug\net6.0\testando.genruntimeconfig.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\testando\testando\obj\Debug\net6.0\ref\testando.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\areaTriangulo_objeto\trianguloVS2022\testando\obj\Debug\net6.0\testando.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\areaTriangulo_objeto\trianguloVS2022\testando\obj\Debug\net6.0\testando.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\areaTriangulo_objeto\trianguloVS2022\testando\obj\Debug\net6.0\testando.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\areaTriangulo_objeto\trianguloVS2022\testando\obj\Debug\net6.0\testando.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\areaTriangulo_objeto\trianguloVS2022\testando\obj\Debug\net6.0\testando.csproj.CoreCompileInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\areaTriangulo_objeto\trianguloVS2022\testando\obj\Debug\net6.0\testando.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\areaTriangulo_objeto\trianguloVS2022\testando\obj\Debug\net6.0\refint\testando.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\areaTriangulo_objeto\trianguloVS2022\testando\obj\Debug\net6.0\testando.pdb
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\areaTriangulo_objeto\trianguloVS2022\testando\bin\Debug\net6.0\testando.exe
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\areaTriangulo_objeto\trianguloVS2022\testando\bin\Debug\net6.0\testando.deps.json
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\areaTriangulo_objeto\trianguloVS2022\testando\bin\Debug\net6.0\testando.runtimeconfig.json
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\areaTriangulo_objeto\trianguloVS2022\testando\bin\Debug\net6.0\testando.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\areaTriangulo_objeto\trianguloVS2022\testando\bin\Debug\net6.0\testando.pdb
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\areaTriangulo_objeto\trianguloVS2022\testando\obj\Debug\net6.0\testando.genruntimeconfig.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\areaTriangulo_objeto\trianguloVS2022\testando\obj\Debug\net6.0\ref\testando.dll

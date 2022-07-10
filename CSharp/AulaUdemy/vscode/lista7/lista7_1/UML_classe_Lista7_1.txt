@@ -1,0 +1,12 @@
+UML Lista7_1
+---------------------
+UML Quadrado
+--------------------------------------
+Classe: Quadrado
+--------------------------------------
+Atributos: - Largura : double
+Atributos: - Altura : double
+-------------------------------------
+Métodos: Area() : double
+Métodos: Perimetro() : double
+Métodos: Diagonal() : double

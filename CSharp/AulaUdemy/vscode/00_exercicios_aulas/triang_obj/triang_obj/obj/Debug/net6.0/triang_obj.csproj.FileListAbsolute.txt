@@ -1,0 +1,15 @@
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\triang_obj\triang_obj\bin\Debug\net6.0\triang_obj.exe
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\triang_obj\triang_obj\bin\Debug\net6.0\triang_obj.deps.json
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\triang_obj\triang_obj\bin\Debug\net6.0\triang_obj.runtimeconfig.json
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\triang_obj\triang_obj\bin\Debug\net6.0\triang_obj.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\triang_obj\triang_obj\bin\Debug\net6.0\triang_obj.pdb
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\triang_obj\triang_obj\obj\Debug\net6.0\triang_obj.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\triang_obj\triang_obj\obj\Debug\net6.0\triang_obj.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\triang_obj\triang_obj\obj\Debug\net6.0\triang_obj.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\triang_obj\triang_obj\obj\Debug\net6.0\triang_obj.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\triang_obj\triang_obj\obj\Debug\net6.0\triang_obj.csproj.CoreCompileInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\triang_obj\triang_obj\obj\Debug\net6.0\triang_obj.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\triang_obj\triang_obj\obj\Debug\net6.0\refint\triang_obj.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\triang_obj\triang_obj\obj\Debug\net6.0\triang_obj.pdb
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\triang_obj\triang_obj\obj\Debug\net6.0\triang_obj.genruntimeconfig.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\triang_obj\triang_obj\obj\Debug\net6.0\ref\triang_obj.dll

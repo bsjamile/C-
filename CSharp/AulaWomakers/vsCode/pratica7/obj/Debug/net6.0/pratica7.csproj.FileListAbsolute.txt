@@ -1,0 +1,15 @@
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\aulasWMC\pratica7\bin\Debug\net6.0\pratica7.exe
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\aulasWMC\pratica7\bin\Debug\net6.0\pratica7.deps.json
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\aulasWMC\pratica7\bin\Debug\net6.0\pratica7.runtimeconfig.json
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\aulasWMC\pratica7\bin\Debug\net6.0\pratica7.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\aulasWMC\pratica7\bin\Debug\net6.0\pratica7.pdb
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\aulasWMC\pratica7\obj\Debug\net6.0\pratica7.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\aulasWMC\pratica7\obj\Debug\net6.0\pratica7.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\aulasWMC\pratica7\obj\Debug\net6.0\pratica7.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\aulasWMC\pratica7\obj\Debug\net6.0\pratica7.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\aulasWMC\pratica7\obj\Debug\net6.0\pratica7.csproj.CoreCompileInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\aulasWMC\pratica7\obj\Debug\net6.0\pratica7.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\aulasWMC\pratica7\obj\Debug\net6.0\refint\pratica7.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\aulasWMC\pratica7\obj\Debug\net6.0\pratica7.pdb
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\aulasWMC\pratica7\obj\Debug\net6.0\pratica7.genruntimeconfig.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\aulasWMC\pratica7\obj\Debug\net6.0\ref\pratica7.dll

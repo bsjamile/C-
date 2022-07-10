@@ -1,0 +1,15 @@
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\lista2\lista2_8\obj\Debug\net6.0\lista2_8.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\lista2\lista2_8\obj\Debug\net6.0\lista2_8.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\lista2\lista2_8\obj\Debug\net6.0\lista2_8.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\lista2\lista2_8\obj\Debug\net6.0\lista2_8.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\lista2\lista2_8\obj\Debug\net6.0\lista2_8.csproj.CoreCompileInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\lista2\lista2_8\bin\Debug\net6.0\lista2_8.exe
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\lista2\lista2_8\bin\Debug\net6.0\lista2_8.deps.json
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\lista2\lista2_8\bin\Debug\net6.0\lista2_8.runtimeconfig.json
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\lista2\lista2_8\bin\Debug\net6.0\lista2_8.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\lista2\lista2_8\bin\Debug\net6.0\lista2_8.pdb
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\lista2\lista2_8\obj\Debug\net6.0\lista2_8.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\lista2\lista2_8\obj\Debug\net6.0\refint\lista2_8.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\lista2\lista2_8\obj\Debug\net6.0\lista2_8.pdb
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\lista2\lista2_8\obj\Debug\net6.0\lista2_8.genruntimeconfig.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\lista2\lista2_8\obj\Debug\net6.0\ref\lista2_8.dll

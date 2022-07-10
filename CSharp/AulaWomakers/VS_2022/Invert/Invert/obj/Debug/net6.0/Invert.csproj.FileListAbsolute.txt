@@ -1,0 +1,15 @@
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\Invert\Invert\bin\Debug\net6.0\Invert.exe
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\Invert\Invert\bin\Debug\net6.0\Invert.deps.json
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\Invert\Invert\bin\Debug\net6.0\Invert.runtimeconfig.json
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\Invert\Invert\bin\Debug\net6.0\Invert.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\Invert\Invert\bin\Debug\net6.0\Invert.pdb
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\Invert\Invert\obj\Debug\net6.0\Invert.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\Invert\Invert\obj\Debug\net6.0\Invert.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\Invert\Invert\obj\Debug\net6.0\Invert.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\Invert\Invert\obj\Debug\net6.0\Invert.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\Invert\Invert\obj\Debug\net6.0\Invert.csproj.CoreCompileInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\Invert\Invert\obj\Debug\net6.0\Invert.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\Invert\Invert\obj\Debug\net6.0\refint\Invert.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\Invert\Invert\obj\Debug\net6.0\Invert.pdb
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\Invert\Invert\obj\Debug\net6.0\Invert.genruntimeconfig.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\Invert\Invert\obj\Debug\net6.0\ref\Invert.dll

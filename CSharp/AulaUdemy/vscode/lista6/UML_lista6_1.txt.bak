@@ -1,0 +1,17 @@
+UML Lista7_3
+---------------------
+UML Aluno
+--------------------------------------
+Classe: Aluno
+--------------------------------------
+Atributos: - Nome : string
+Atributos: - Nota1 : double
+Atributos: - Nota2 : double
+Atributos: - Nota3 : double
+Atributos: - media : double
+
+-------------------------------------
+Métodos: NotaFinal() : double
+Métodos: StatusAnual() : bool
+Métodos: NotaRestante() : double
+Métodos: Result() : void

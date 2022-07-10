@@ -1,0 +1,43 @@
+Triângulo = Entidade com 3 atributos - 3 lados
+
+Os atributos são os dados da classe. - triangulo = ladoA, ladoB, ladoC;
+Os métodos são funções ou operaçõoes;
+
+Nome de Classe começa com letra Maiúsula.
+Nome de Atributo começa com letra Maiúscula.
+
+A Classe também é um tipo assim como string, double, int;
+
+Stack = variável fixa na memória (estática);
+Heap = área de alocação dinâmica; - A Classe precisa ser instanciada;
+
+Triangulo x, y;
+
+x = new Triangulo();
+y = new Triangulo();
+
+Public = posso acessar esse atributo pelo programa principal, por ex.
+
+Classe: é a definição do tipo -- tipo Triangulo
+Objetos: são instâncias da classe -- x e y
+A, B, C = atributos ou campos
+
+Método = é uma função dentro da classe - Membro da classe
+	Começa com letra Maiúscula - Padrão C#
+Metodo();
+public double Area : Se o método não retorna nada usa a palavra void no lugar do tipo;
+
+UML = linguagem gráfica para desenhar vários tipos de projetos;
+
+Benefícios de utilizar o método:
+	- Reaproveitamento de código;
+	- Delegação de responsabilidades;
+
+Toda classe em C# é uma subclasse da classe Object
+Toda classe é um objeto
+
+Object possui os seguinte métodos:
+	- GetType - retorna o tipo do objeto
+	- Equals - compara se o objeto é igual a outro
+	- GetHashCode - retorna um código hash do objeto
+	- ToString - converte o objeto para string

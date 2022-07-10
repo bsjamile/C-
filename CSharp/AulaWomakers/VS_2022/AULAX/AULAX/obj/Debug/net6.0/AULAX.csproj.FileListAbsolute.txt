@@ -1,0 +1,15 @@
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\AULAX\AULAX\bin\Debug\net6.0\AULAX.exe
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\AULAX\AULAX\bin\Debug\net6.0\AULAX.deps.json
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\AULAX\AULAX\bin\Debug\net6.0\AULAX.runtimeconfig.json
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\AULAX\AULAX\bin\Debug\net6.0\AULAX.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\AULAX\AULAX\bin\Debug\net6.0\AULAX.pdb
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\AULAX\AULAX\obj\Debug\net6.0\AULAX.csproj.AssemblyReference.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\AULAX\AULAX\obj\Debug\net6.0\AULAX.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\AULAX\AULAX\obj\Debug\net6.0\AULAX.AssemblyInfoInputs.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\AULAX\AULAX\obj\Debug\net6.0\AULAX.AssemblyInfo.cs
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\AULAX\AULAX\obj\Debug\net6.0\AULAX.csproj.CoreCompileInputs.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\AULAX\AULAX\obj\Debug\net6.0\AULAX.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\AULAX\AULAX\obj\Debug\net6.0\refint\AULAX.dll
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\AULAX\AULAX\obj\Debug\net6.0\AULAX.pdb
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\AULAX\AULAX\obj\Debug\net6.0\AULAX.genruntimeconfig.cache
+H:\Meu Drive\ConstruDelas\Assunto 9 - Csharp\AULAX\AULAX\obj\Debug\net6.0\ref\AULAX.dll

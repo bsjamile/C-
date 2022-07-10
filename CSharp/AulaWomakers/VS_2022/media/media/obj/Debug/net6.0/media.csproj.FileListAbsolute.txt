@@ -1,0 +1,15 @@
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\media\media\bin\Debug\net6.0\media.exe
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\media\media\bin\Debug\net6.0\media.deps.json
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\media\media\bin\Debug\net6.0\media.runtimeconfig.json
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\media\media\bin\Debug\net6.0\media.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\media\media\bin\Debug\net6.0\media.pdb
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\media\media\obj\Debug\net6.0\media.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\media\media\obj\Debug\net6.0\media.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\media\media\obj\Debug\net6.0\media.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\media\media\obj\Debug\net6.0\media.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\media\media\obj\Debug\net6.0\media.csproj.CoreCompileInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\media\media\obj\Debug\net6.0\media.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\media\media\obj\Debug\net6.0\refint\media.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\media\media\obj\Debug\net6.0\media.pdb
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\media\media\obj\Debug\net6.0\media.genruntimeconfig.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\media\media\obj\Debug\net6.0\ref\media.dll

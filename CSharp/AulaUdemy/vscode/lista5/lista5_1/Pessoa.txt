@@ -1,0 +1,6 @@
+namespace lista5_1{
+	class Pessoa
+	{
+		
+	}
+}

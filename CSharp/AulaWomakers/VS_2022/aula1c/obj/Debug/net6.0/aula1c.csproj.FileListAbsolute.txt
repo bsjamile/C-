@@ -1,0 +1,15 @@
+C:\Users\Jamile\Desktop\aula1c\aula1c\bin\Debug\net6.0\aula1c.exe
+C:\Users\Jamile\Desktop\aula1c\aula1c\bin\Debug\net6.0\aula1c.deps.json
+C:\Users\Jamile\Desktop\aula1c\aula1c\bin\Debug\net6.0\aula1c.runtimeconfig.json
+C:\Users\Jamile\Desktop\aula1c\aula1c\bin\Debug\net6.0\aula1c.dll
+C:\Users\Jamile\Desktop\aula1c\aula1c\bin\Debug\net6.0\aula1c.pdb
+C:\Users\Jamile\Desktop\aula1c\aula1c\obj\Debug\net6.0\aula1c.csproj.AssemblyReference.cache
+C:\Users\Jamile\Desktop\aula1c\aula1c\obj\Debug\net6.0\aula1c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamile\Desktop\aula1c\aula1c\obj\Debug\net6.0\aula1c.AssemblyInfoInputs.cache
+C:\Users\Jamile\Desktop\aula1c\aula1c\obj\Debug\net6.0\aula1c.AssemblyInfo.cs
+C:\Users\Jamile\Desktop\aula1c\aula1c\obj\Debug\net6.0\aula1c.csproj.CoreCompileInputs.cache
+C:\Users\Jamile\Desktop\aula1c\aula1c\obj\Debug\net6.0\aula1c.dll
+C:\Users\Jamile\Desktop\aula1c\aula1c\obj\Debug\net6.0\refint\aula1c.dll
+C:\Users\Jamile\Desktop\aula1c\aula1c\obj\Debug\net6.0\aula1c.pdb
+C:\Users\Jamile\Desktop\aula1c\aula1c\obj\Debug\net6.0\aula1c.genruntimeconfig.cache
+C:\Users\Jamile\Desktop\aula1c\aula1c\obj\Debug\net6.0\ref\aula1c.dll

@@ -1,0 +1,15 @@
+C:\Users\Jamile\Desktop\aula1c\testeC\bin\Debug\net6.0\testeC.exe
+C:\Users\Jamile\Desktop\aula1c\testeC\bin\Debug\net6.0\testeC.deps.json
+C:\Users\Jamile\Desktop\aula1c\testeC\bin\Debug\net6.0\testeC.runtimeconfig.json
+C:\Users\Jamile\Desktop\aula1c\testeC\bin\Debug\net6.0\testeC.dll
+C:\Users\Jamile\Desktop\aula1c\testeC\bin\Debug\net6.0\testeC.pdb
+C:\Users\Jamile\Desktop\aula1c\testeC\obj\Debug\net6.0\testeC.csproj.AssemblyReference.cache
+C:\Users\Jamile\Desktop\aula1c\testeC\obj\Debug\net6.0\testeC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamile\Desktop\aula1c\testeC\obj\Debug\net6.0\testeC.AssemblyInfoInputs.cache
+C:\Users\Jamile\Desktop\aula1c\testeC\obj\Debug\net6.0\testeC.AssemblyInfo.cs
+C:\Users\Jamile\Desktop\aula1c\testeC\obj\Debug\net6.0\testeC.csproj.CoreCompileInputs.cache
+C:\Users\Jamile\Desktop\aula1c\testeC\obj\Debug\net6.0\testeC.dll
+C:\Users\Jamile\Desktop\aula1c\testeC\obj\Debug\net6.0\refint\testeC.dll
+C:\Users\Jamile\Desktop\aula1c\testeC\obj\Debug\net6.0\testeC.pdb
+C:\Users\Jamile\Desktop\aula1c\testeC\obj\Debug\net6.0\testeC.genruntimeconfig.cache
+C:\Users\Jamile\Desktop\aula1c\testeC\obj\Debug\net6.0\ref\testeC.dll

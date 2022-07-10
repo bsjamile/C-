@@ -1,0 +1,22 @@
+Hacker Rank
+
+public static int birthdayCakeCandles(List<int> candles)
+    {
+        int qtde = 0;
+        var maiorNumero = candles.First();
+        foreach (var item in candles)
+        {
+            if (item > maiorNumero)
+            {
+                maiorNumero = item;
+                qtde = 0;
+            }            
+            
+            if (item == maiorNumero){
+                qtde++;
+            }
+        }
+        return qtde;
+    }
+
+}

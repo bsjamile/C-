@@ -1,0 +1,15 @@
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\McDonalds\McDonalds\bin\Debug\net6.0\McDonalds.exe
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\McDonalds\McDonalds\bin\Debug\net6.0\McDonalds.deps.json
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\McDonalds\McDonalds\bin\Debug\net6.0\McDonalds.runtimeconfig.json
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\McDonalds\McDonalds\bin\Debug\net6.0\McDonalds.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\McDonalds\McDonalds\bin\Debug\net6.0\McDonalds.pdb
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\McDonalds\McDonalds\obj\Debug\net6.0\McDonalds.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\McDonalds\McDonalds\obj\Debug\net6.0\McDonalds.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\McDonalds\McDonalds\obj\Debug\net6.0\McDonalds.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\McDonalds\McDonalds\obj\Debug\net6.0\McDonalds.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\McDonalds\McDonalds\obj\Debug\net6.0\McDonalds.csproj.CoreCompileInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\McDonalds\McDonalds\obj\Debug\net6.0\McDonalds.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\McDonalds\McDonalds\obj\Debug\net6.0\refint\McDonalds.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\McDonalds\McDonalds\obj\Debug\net6.0\McDonalds.pdb
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\McDonalds\McDonalds\obj\Debug\net6.0\McDonalds.genruntimeconfig.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\McDonalds\McDonalds\obj\Debug\net6.0\ref\McDonalds.dll

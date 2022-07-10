@@ -1,0 +1,12 @@
+UML Lista7_2
+---------------------
+UML Funcionario
+--------------------------------------
+Classe: Funcionario
+--------------------------------------
+Atributos: - Nome : string
+Atributos: - Salario : double
+Atributos: - Imposto : double
+-------------------------------------
+Métodos: SalarioLiquido() : double
+Métodos: AumentarSalario(porcentagem double) :  void

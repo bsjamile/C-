@@ -1,0 +1,15 @@
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\ProdutosEncap\ProdutosEncap\bin\Debug\net6.0\ProdutosEncap.exe
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\ProdutosEncap\ProdutosEncap\bin\Debug\net6.0\ProdutosEncap.deps.json
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\ProdutosEncap\ProdutosEncap\bin\Debug\net6.0\ProdutosEncap.runtimeconfig.json
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\ProdutosEncap\ProdutosEncap\bin\Debug\net6.0\ProdutosEncap.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\ProdutosEncap\ProdutosEncap\bin\Debug\net6.0\ProdutosEncap.pdb
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\ProdutosEncap\ProdutosEncap\obj\Debug\net6.0\ProdutosEncap.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\ProdutosEncap\ProdutosEncap\obj\Debug\net6.0\ProdutosEncap.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\ProdutosEncap\ProdutosEncap\obj\Debug\net6.0\ProdutosEncap.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\ProdutosEncap\ProdutosEncap\obj\Debug\net6.0\ProdutosEncap.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\ProdutosEncap\ProdutosEncap\obj\Debug\net6.0\ProdutosEncap.csproj.CoreCompileInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\ProdutosEncap\ProdutosEncap\obj\Debug\net6.0\ProdutosEncap.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\ProdutosEncap\ProdutosEncap\obj\Debug\net6.0\refint\ProdutosEncap.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\ProdutosEncap\ProdutosEncap\obj\Debug\net6.0\ProdutosEncap.pdb
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\ProdutosEncap\ProdutosEncap\obj\Debug\net6.0\ProdutosEncap.genruntimeconfig.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaUdemy\vscode\00_exercicios_aulas\ProdutosEncap\ProdutosEncap\obj\Debug\net6.0\ref\ProdutosEncap.dll

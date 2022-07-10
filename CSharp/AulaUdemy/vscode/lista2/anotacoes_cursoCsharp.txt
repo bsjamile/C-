@@ -1,0 +1,124 @@
+Atalhos:
+ * Ctrl + K + D = Identação automática
+ * Ctrl + F5 = Run 
+ * cw + tab + tab = Console.WriteLine no Visual Studio
+ * F9 - marcar/desmarcar breakpoint;
+ * F5 - iniciar/continuar o debug;
+ * F10 - executar um passo (pula função);
+ * F11 - executar um passo (entra na função);
+ * SHIFT + F11 - sair do método em execução;
+ * SHIFT + F5 - parar debug;
+ * prop + tab + tab = atalho para criar a propriedade
+ 
+ 
+Tipos de Dados mais utilizados C#:
+ * int - +/- inteiro e 4 bytes
+ * long - +/- inteiro e 8 bytes
+ * float - +/- casa decimais 4 bytes
+ * double - +/- casa decimais 8 bytes
+ * decimal - +/- casa decimais 12 bytes e calculos com alta precisão
+ * char - armazena 1 caracter
+ * bool - V or F 
+ * Overflow - quando o cálculo estrapola o limite da sua variável
+ 
+ Convenções:  
+ *camelCase: lastName(parâmetros de métodos, variáveis dentro de métodos);
+ *PascalCase: LastName(namespaces, classe, properties e métodos);
+ *Padrão: _lastName(atributos internos da classe);
+ 
+ Curiosidade:
+ * using System.Globalization; + Console.WriteLine(pi.ToString("F4", CultureInfo.InvariantCulture)); = transforma de , para .
+ * Console.WriteLine(saldo.ToString("F2")); - Aproxima o número dentro da variável saldo para 2 casas decimais;
+ 
+ Operadores Lógicos:
+ * Precedência: ! > && > ||
+ * Pode usar parênteses à vontade
+ 
+* Nota IF: Se o bloco de comandos possuir apenas um comando, as chaves são opcionais.
+ Ex: 
+ if (hora < 12)
+        Console.WriteLine("Bom dia!");
+    else if (hora < 18)
+        Console.WriteLine("Boa tarde!");
+    else
+        Console.WriteLine("Boa noite!");
+		
+Se atentar a Escopo Global e Escopo Local:
+* Quando a variável é declarada dentro do bloco if, esse escopo é local.
+	Então, ela só existe dentro do bloco.
+Ex:
+double preco = double.Parce(Console.ReadLine());
+if(preco > 100.0){
+	double desconto = preco * 0.1;
+}
+Console.WriteLine(desconto); //Não vai funcionar pq a variável desconto só existe dentro do bloco if
+
+Classe: tipo estruturado que pode conter membros
+	Atributos (dados/campos)
+	Métodos (funções/operações)
+	
+Classe pode conter outros atributos:
+	Construtores
+	Sobrecarga
+	Encapsulamento
+	Herança
+	Polimorfismo
+
+- Classe: é a definição do tipo
+- Objetos: são instâncias da classe
+
+* Benefícios dos métodos dentro da classe
+- Reaproveitamento de código;
+- Delegação de responsabilidades;
+
+*Toda classe em C# é uma subclasse da classe Object
+
+*Object possui os seguintes métodos:
+	-GetType - retorna o tipo do objeto
+	-Equals - compara se o objeto é igual a outro
+	-GetHashCode - retorna um código hash do objeto
+	-ToString- converte o objeto para string
+	
+*Membros estáticos
+	São membros que fazem sentido independentemente de objetos. 
+	Não precisam de objeto para serem chamados. 
+	São chamados a partir do próprio nome da classe.
+	
+	Uma classe que possui somente membros estáticos, pode ser uma classe estática também.
+	Esta classe não poderá ser instanciada.
+
+* Operações estáticas sempre vão dar o mesmo resultado independente de objeto e não podem ser instanciadas.
+Para chamar dentro de uma funcao estatica, a outra funcao tem que ser estatica tbm
+Independente se o objeto é diferente ou não, o static vai retornar sempre o mesmo valor
+
+* Com o intuito de evitar a existência de objetos com atributos com o valor 0, [e possível fazer com que seja "obrigatória" a iniciação desses valores
+	através dos Construtores
+Aí na hora de instanciar o objeto, o programador vai ser obrigador a informar os valores dos atributos daquela  classe.
+
+* Construtor
+	É uma operação especial da classe, que executa no momento da instanciação do objeto;
+	É possível especificar mais de um construtor na mesma classe (sobrecarga)
+
+*Sobrecarga = recurso que uma classe possui de oferecer mais de uma operação com o mesmo nome, porém com diferentes listas de parâmetros;
+Quando a classe não tem construtor, o construtor padrão pode ser usado;
+
+* this é uma referencia para o proprio objeto
+
+Class private só temos acesso através de Get -- pegar e Set - alterar
+
+- Ordem Sugerida para implementação de membros
+	* Atributos privados
+	* Propriedades autoimplementadas
+	* Construtores
+	* Propriedades customizadas
+	* Outros métodos da classe
+
+Curiosidade:
+Console.ReadKey(); //Faz com q o usuario aperte uma tecla e programa feche
+
+Console.WriteLine("Hello \nWorld!"); - Quebra de parágrafo
+Console.WriteLine("Hello \tWorld!"); - espaço
+Console.WriteLine("Hello \"World\"!"); - aspas
+Console.WriteLine(@"c:\source\repos
+    (this is where your code goes)"); - @respeita a quebra de parágrafo
+	

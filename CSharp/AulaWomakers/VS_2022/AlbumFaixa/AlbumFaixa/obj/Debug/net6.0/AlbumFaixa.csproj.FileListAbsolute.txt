@@ -1,0 +1,15 @@
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\AlbumFaixa\AlbumFaixa\bin\Debug\net6.0\AlbumFaixa.exe
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\AlbumFaixa\AlbumFaixa\bin\Debug\net6.0\AlbumFaixa.deps.json
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\AlbumFaixa\AlbumFaixa\bin\Debug\net6.0\AlbumFaixa.runtimeconfig.json
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\AlbumFaixa\AlbumFaixa\bin\Debug\net6.0\AlbumFaixa.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\AlbumFaixa\AlbumFaixa\bin\Debug\net6.0\AlbumFaixa.pdb
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\AlbumFaixa\AlbumFaixa\obj\Debug\net6.0\AlbumFaixa.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\AlbumFaixa\AlbumFaixa\obj\Debug\net6.0\AlbumFaixa.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\AlbumFaixa\AlbumFaixa\obj\Debug\net6.0\AlbumFaixa.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\AlbumFaixa\AlbumFaixa\obj\Debug\net6.0\AlbumFaixa.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\AlbumFaixa\AlbumFaixa\obj\Debug\net6.0\AlbumFaixa.csproj.CoreCompileInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\AlbumFaixa\AlbumFaixa\obj\Debug\net6.0\AlbumFaixa.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\AlbumFaixa\AlbumFaixa\obj\Debug\net6.0\refint\AlbumFaixa.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\AlbumFaixa\AlbumFaixa\obj\Debug\net6.0\AlbumFaixa.pdb
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\AlbumFaixa\AlbumFaixa\obj\Debug\net6.0\AlbumFaixa.genruntimeconfig.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\AlbumFaixa\AlbumFaixa\obj\Debug\net6.0\ref\AlbumFaixa.dll

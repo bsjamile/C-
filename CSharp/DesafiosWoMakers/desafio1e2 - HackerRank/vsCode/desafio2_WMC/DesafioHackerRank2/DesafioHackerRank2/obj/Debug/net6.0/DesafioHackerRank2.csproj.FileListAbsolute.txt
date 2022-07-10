@@ -1,0 +1,15 @@
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\hackerRank\vsCode\desafio2_WMC\DesafioHackerRank2\DesafioHackerRank2\obj\Debug\net6.0\DesafioHackerRank2.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\hackerRank\vsCode\desafio2_WMC\DesafioHackerRank2\DesafioHackerRank2\obj\Debug\net6.0\DesafioHackerRank2.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\hackerRank\vsCode\desafio2_WMC\DesafioHackerRank2\DesafioHackerRank2\obj\Debug\net6.0\DesafioHackerRank2.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\hackerRank\vsCode\desafio2_WMC\DesafioHackerRank2\DesafioHackerRank2\obj\Debug\net6.0\DesafioHackerRank2.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\hackerRank\vsCode\desafio2_WMC\DesafioHackerRank2\DesafioHackerRank2\obj\Debug\net6.0\DesafioHackerRank2.csproj.CoreCompileInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\hackerRank\vsCode\desafio2_WMC\DesafioHackerRank2\DesafioHackerRank2\bin\Debug\net6.0\DesafioHackerRank2.exe
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\hackerRank\vsCode\desafio2_WMC\DesafioHackerRank2\DesafioHackerRank2\bin\Debug\net6.0\DesafioHackerRank2.deps.json
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\hackerRank\vsCode\desafio2_WMC\DesafioHackerRank2\DesafioHackerRank2\bin\Debug\net6.0\DesafioHackerRank2.runtimeconfig.json
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\hackerRank\vsCode\desafio2_WMC\DesafioHackerRank2\DesafioHackerRank2\bin\Debug\net6.0\DesafioHackerRank2.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\hackerRank\vsCode\desafio2_WMC\DesafioHackerRank2\DesafioHackerRank2\bin\Debug\net6.0\DesafioHackerRank2.pdb
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\hackerRank\vsCode\desafio2_WMC\DesafioHackerRank2\DesafioHackerRank2\obj\Debug\net6.0\DesafioHackerRank2.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\hackerRank\vsCode\desafio2_WMC\DesafioHackerRank2\DesafioHackerRank2\obj\Debug\net6.0\refint\DesafioHackerRank2.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\hackerRank\vsCode\desafio2_WMC\DesafioHackerRank2\DesafioHackerRank2\obj\Debug\net6.0\DesafioHackerRank2.pdb
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\hackerRank\vsCode\desafio2_WMC\DesafioHackerRank2\DesafioHackerRank2\obj\Debug\net6.0\DesafioHackerRank2.genruntimeconfig.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\hackerRank\vsCode\desafio2_WMC\DesafioHackerRank2\DesafioHackerRank2\obj\Debug\net6.0\ref\DesafioHackerRank2.dll

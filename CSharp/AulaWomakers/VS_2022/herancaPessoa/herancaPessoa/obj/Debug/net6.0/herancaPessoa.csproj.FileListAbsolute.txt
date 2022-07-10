@@ -1,0 +1,15 @@
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\herancaPessoa\herancaPessoa\obj\Debug\net6.0\herancaPessoa.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\herancaPessoa\herancaPessoa\obj\Debug\net6.0\herancaPessoa.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\herancaPessoa\herancaPessoa\obj\Debug\net6.0\herancaPessoa.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\herancaPessoa\herancaPessoa\obj\Debug\net6.0\herancaPessoa.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\herancaPessoa\herancaPessoa\obj\Debug\net6.0\herancaPessoa.csproj.CoreCompileInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\herancaPessoa\herancaPessoa\bin\Debug\net6.0\herancaPessoa.exe
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\herancaPessoa\herancaPessoa\bin\Debug\net6.0\herancaPessoa.deps.json
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\herancaPessoa\herancaPessoa\bin\Debug\net6.0\herancaPessoa.runtimeconfig.json
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\herancaPessoa\herancaPessoa\bin\Debug\net6.0\herancaPessoa.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\herancaPessoa\herancaPessoa\bin\Debug\net6.0\herancaPessoa.pdb
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\herancaPessoa\herancaPessoa\obj\Debug\net6.0\herancaPessoa.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\herancaPessoa\herancaPessoa\obj\Debug\net6.0\refint\herancaPessoa.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\herancaPessoa\herancaPessoa\obj\Debug\net6.0\herancaPessoa.pdb
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\herancaPessoa\herancaPessoa\obj\Debug\net6.0\herancaPessoa.genruntimeconfig.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\AulaWomakers\VS_2022\herancaPessoa\herancaPessoa\obj\Debug\net6.0\ref\herancaPessoa.dll

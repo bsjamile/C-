@@ -1,0 +1,9 @@
+UML Lista6_1
+---------------------
+UML ConversorDeMoeda
+--------------------------------------
+Classe: ConversorDeMoeda
+--------------------------------------
+Atributos: - Iof : static double
+-------------------------------------
+Métodos: ConversorDeMoeda() : static double
