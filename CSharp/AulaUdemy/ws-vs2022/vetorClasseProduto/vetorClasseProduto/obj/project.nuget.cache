@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BCDb/7PROwuuLetEj8j8vQgRGPQYpmkYco5F+RBC5KdfybrVFMExU2TD1Dazp6cd7bYqB0pl2atP0b9OpWXcig==",
+  "success": true,
+  "projectFilePath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\c#\\CSharp\\AulaUdemy\\ws-vs2022\\vetorClasseProduto\\vetorClasseProduto\\vetorClasseProduto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jamile\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

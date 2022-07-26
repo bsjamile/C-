@@ -1,0 +1,16 @@
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\Construtor\Construtor\bin\Debug\net5.0\Construtor.exe
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\Construtor\Construtor\bin\Debug\net5.0\Construtor.deps.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\Construtor\Construtor\bin\Debug\net5.0\Construtor.runtimeconfig.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\Construtor\Construtor\bin\Debug\net5.0\Construtor.runtimeconfig.dev.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\Construtor\Construtor\bin\Debug\net5.0\Construtor.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\Construtor\Construtor\bin\Debug\net5.0\Construtor.pdb
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\Construtor\Construtor\obj\Debug\net5.0\Construtor.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\Construtor\Construtor\obj\Debug\net5.0\Construtor.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\Construtor\Construtor\obj\Debug\net5.0\Construtor.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\Construtor\Construtor\obj\Debug\net5.0\Construtor.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\Construtor\Construtor\obj\Debug\net5.0\Construtor.csproj.CoreCompileInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\Construtor\Construtor\obj\Debug\net5.0\Construtor.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\Construtor\Construtor\obj\Debug\net5.0\refint\Construtor.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\Construtor\Construtor\obj\Debug\net5.0\Construtor.pdb
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\Construtor\Construtor\obj\Debug\net5.0\Construtor.genruntimeconfig.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\Construtor\Construtor\obj\Debug\net5.0\ref\Construtor.dll

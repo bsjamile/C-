@@ -1,0 +1,15 @@
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\BoxingUnboxing\BoxingUnboxing\bin\Debug\net6.0\BoxingUnboxing.exe
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\BoxingUnboxing\BoxingUnboxing\bin\Debug\net6.0\BoxingUnboxing.deps.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\BoxingUnboxing\BoxingUnboxing\bin\Debug\net6.0\BoxingUnboxing.runtimeconfig.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\BoxingUnboxing\BoxingUnboxing\bin\Debug\net6.0\BoxingUnboxing.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\BoxingUnboxing\BoxingUnboxing\bin\Debug\net6.0\BoxingUnboxing.pdb
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\BoxingUnboxing\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\BoxingUnboxing\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\BoxingUnboxing\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\BoxingUnboxing\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\BoxingUnboxing\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.csproj.CoreCompileInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\BoxingUnboxing\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\BoxingUnboxing\BoxingUnboxing\obj\Debug\net6.0\refint\BoxingUnboxing.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\BoxingUnboxing\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.pdb
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\BoxingUnboxing\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.genruntimeconfig.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\BoxingUnboxing\BoxingUnboxing\obj\Debug\net6.0\ref\BoxingUnboxing.dll

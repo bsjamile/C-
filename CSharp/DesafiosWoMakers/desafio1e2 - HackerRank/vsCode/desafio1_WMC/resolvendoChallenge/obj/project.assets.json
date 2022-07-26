@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\hackerRank\\vsCode\\desafio1_WMC\\resolvendoChallenge\\resolvendoChallenge.csproj",
+      "projectUniqueName": "H:\\Meu Drive\\GitHub\\MeusProjetos\\c#\\CSharp\\DesafiosWoMakers\\desafio1e2 - HackerRank\\vsCode\\desafio1_WMC\\resolvendoChallenge\\resolvendoChallenge.csproj",
       "projectName": "resolvendoChallenge",
-      "projectPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\hackerRank\\vsCode\\desafio1_WMC\\resolvendoChallenge\\resolvendoChallenge.csproj",
+      "projectPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\c#\\CSharp\\DesafiosWoMakers\\desafio1e2 - HackerRank\\vsCode\\desafio1_WMC\\resolvendoChallenge\\resolvendoChallenge.csproj",
       "packagesPath": "C:\\Users\\Jamile\\.nuget\\packages\\",
-      "outputPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\hackerRank\\vsCode\\desafio1_WMC\\resolvendoChallenge\\obj\\",
+      "outputPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\c#\\CSharp\\DesafiosWoMakers\\desafio1e2 - HackerRank\\vsCode\\desafio1_WMC\\resolvendoChallenge\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jamile\\AppData\\Roaming\\NuGet\\NuGet.Config",

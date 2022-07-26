@@ -16,7 +16,6 @@ namespace lista6_1
             double resultado = ConversorDeMoeda.ConverterMoeda(cot, qtd);
 
             Console.WriteLine($"Valor a ser pago em reais = {resultado.ToString("F2", CultureInfo.InvariantCulture)}");
-
         }
     }
 }

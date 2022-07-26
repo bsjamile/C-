@@ -1,0 +1,16 @@
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\VetorClassProduto\VetorClassProduto\bin\Debug\net5.0\VetorClassProduto.exe
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\VetorClassProduto\VetorClassProduto\bin\Debug\net5.0\VetorClassProduto.deps.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\VetorClassProduto\VetorClassProduto\bin\Debug\net5.0\VetorClassProduto.runtimeconfig.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\VetorClassProduto\VetorClassProduto\bin\Debug\net5.0\VetorClassProduto.runtimeconfig.dev.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\VetorClassProduto\VetorClassProduto\bin\Debug\net5.0\VetorClassProduto.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\VetorClassProduto\VetorClassProduto\bin\Debug\net5.0\VetorClassProduto.pdb
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\VetorClassProduto\VetorClassProduto\obj\Debug\net5.0\VetorClassProduto.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\VetorClassProduto\VetorClassProduto\obj\Debug\net5.0\VetorClassProduto.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\VetorClassProduto\VetorClassProduto\obj\Debug\net5.0\VetorClassProduto.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\VetorClassProduto\VetorClassProduto\obj\Debug\net5.0\VetorClassProduto.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\VetorClassProduto\VetorClassProduto\obj\Debug\net5.0\VetorClassProduto.csproj.CoreCompileInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\VetorClassProduto\VetorClassProduto\obj\Debug\net5.0\VetorClassProduto.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\VetorClassProduto\VetorClassProduto\obj\Debug\net5.0\refint\VetorClassProduto.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\VetorClassProduto\VetorClassProduto\obj\Debug\net5.0\VetorClassProduto.pdb
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\VetorClassProduto\VetorClassProduto\obj\Debug\net5.0\VetorClassProduto.genruntimeconfig.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\VetorClassProduto\VetorClassProduto\obj\Debug\net5.0\ref\VetorClassProduto.dll

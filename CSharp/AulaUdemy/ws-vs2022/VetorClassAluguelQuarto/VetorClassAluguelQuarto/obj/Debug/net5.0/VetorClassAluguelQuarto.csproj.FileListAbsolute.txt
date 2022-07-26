@@ -1,0 +1,16 @@
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\VetorClassAluguelQuarto\VetorClassAluguelQuarto\bin\Debug\net5.0\VetorClassAluguelQuarto.exe
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\VetorClassAluguelQuarto\VetorClassAluguelQuarto\bin\Debug\net5.0\VetorClassAluguelQuarto.deps.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\VetorClassAluguelQuarto\VetorClassAluguelQuarto\bin\Debug\net5.0\VetorClassAluguelQuarto.runtimeconfig.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\VetorClassAluguelQuarto\VetorClassAluguelQuarto\bin\Debug\net5.0\VetorClassAluguelQuarto.runtimeconfig.dev.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\VetorClassAluguelQuarto\VetorClassAluguelQuarto\bin\Debug\net5.0\VetorClassAluguelQuarto.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\VetorClassAluguelQuarto\VetorClassAluguelQuarto\bin\Debug\net5.0\VetorClassAluguelQuarto.pdb
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\VetorClassAluguelQuarto\VetorClassAluguelQuarto\obj\Debug\net5.0\VetorClassAluguelQuarto.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\VetorClassAluguelQuarto\VetorClassAluguelQuarto\obj\Debug\net5.0\VetorClassAluguelQuarto.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\VetorClassAluguelQuarto\VetorClassAluguelQuarto\obj\Debug\net5.0\VetorClassAluguelQuarto.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\VetorClassAluguelQuarto\VetorClassAluguelQuarto\obj\Debug\net5.0\VetorClassAluguelQuarto.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\VetorClassAluguelQuarto\VetorClassAluguelQuarto\obj\Debug\net5.0\VetorClassAluguelQuarto.csproj.CoreCompileInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\VetorClassAluguelQuarto\VetorClassAluguelQuarto\obj\Debug\net5.0\VetorClassAluguelQuarto.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\VetorClassAluguelQuarto\VetorClassAluguelQuarto\obj\Debug\net5.0\refint\VetorClassAluguelQuarto.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\VetorClassAluguelQuarto\VetorClassAluguelQuarto\obj\Debug\net5.0\VetorClassAluguelQuarto.pdb
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\VetorClassAluguelQuarto\VetorClassAluguelQuarto\obj\Debug\net5.0\VetorClassAluguelQuarto.genruntimeconfig.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\VetorClassAluguelQuarto\VetorClassAluguelQuarto\obj\Debug\net5.0\ref\VetorClassAluguelQuarto.dll

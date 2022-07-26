@@ -1,0 +1,15 @@
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ModificadorOut\ModificadorOut\bin\Debug\net6.0\ModificadorOut.exe
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ModificadorOut\ModificadorOut\bin\Debug\net6.0\ModificadorOut.deps.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ModificadorOut\ModificadorOut\bin\Debug\net6.0\ModificadorOut.runtimeconfig.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ModificadorOut\ModificadorOut\bin\Debug\net6.0\ModificadorOut.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ModificadorOut\ModificadorOut\bin\Debug\net6.0\ModificadorOut.pdb
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ModificadorOut\ModificadorOut\obj\Debug\net6.0\ModificadorOut.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ModificadorOut\ModificadorOut\obj\Debug\net6.0\ModificadorOut.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ModificadorOut\ModificadorOut\obj\Debug\net6.0\ModificadorOut.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ModificadorOut\ModificadorOut\obj\Debug\net6.0\ModificadorOut.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ModificadorOut\ModificadorOut\obj\Debug\net6.0\ModificadorOut.csproj.CoreCompileInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ModificadorOut\ModificadorOut\obj\Debug\net6.0\ModificadorOut.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ModificadorOut\ModificadorOut\obj\Debug\net6.0\refint\ModificadorOut.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ModificadorOut\ModificadorOut\obj\Debug\net6.0\ModificadorOut.pdb
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ModificadorOut\ModificadorOut\obj\Debug\net6.0\ModificadorOut.genruntimeconfig.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ModificadorOut\ModificadorOut\obj\Debug\net6.0\ref\ModificadorOut.dll

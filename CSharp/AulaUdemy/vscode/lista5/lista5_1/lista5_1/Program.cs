@@ -6,9 +6,10 @@ namespace lista5_1
     {
         static void Main(string[] args)
         {
-            Pessoa p1, p2;
+            Pessoa p1, p2, p;
             p1 = new Pessoa();
             p2 = new Pessoa();
+            p = new Pessoa();
 
 
             Console.WriteLine("Dados da primeira pessoa:");
@@ -23,21 +24,7 @@ namespace lista5_1
             Console.Write("Idade: ");
             int.TryParse(Console.ReadLine(), out p2.Idade);
 
-            string velha;
-
-            if(p1.Idade > p2.Idade)
-            {
-                velha = p1.Nome;
-            }
-            else if(p2.Idade > p1.Idade)
-            {
-                velha = p2.Nome;
-            }
-            else
-            {
-                velha = "possuem a mesma idade";
-            }
-            Console.WriteLine($"Pessoa mais velha: {velha}");
+            p.MaisVelha(p1.Idade, p2.Idade, p1.Nome, p2.Nome);
         }
     }    
 }

@@ -1,0 +1,15 @@
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\bin\Debug\net6.0\ExercicioFixacaoMatrizes.exe
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\bin\Debug\net6.0\ExercicioFixacaoMatrizes.deps.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\bin\Debug\net6.0\ExercicioFixacaoMatrizes.runtimeconfig.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\bin\Debug\net6.0\ExercicioFixacaoMatrizes.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\bin\Debug\net6.0\ExercicioFixacaoMatrizes.pdb
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\net6.0\ExercicioFixacaoMatrizes.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\net6.0\ExercicioFixacaoMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\net6.0\ExercicioFixacaoMatrizes.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\net6.0\ExercicioFixacaoMatrizes.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\net6.0\ExercicioFixacaoMatrizes.csproj.CoreCompileInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\net6.0\ExercicioFixacaoMatrizes.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\net6.0\refint\ExercicioFixacaoMatrizes.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\net6.0\ExercicioFixacaoMatrizes.pdb
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\net6.0\ExercicioFixacaoMatrizes.genruntimeconfig.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\net6.0\ref\ExercicioFixacaoMatrizes.dll

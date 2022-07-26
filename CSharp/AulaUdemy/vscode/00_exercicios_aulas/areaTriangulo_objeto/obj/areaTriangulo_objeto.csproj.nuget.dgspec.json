@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\AulaUdemy\\vscode\\00_exercicios_aulas\\areaTriangulo_objeto\\areaTriangulo_objeto.csproj": {}
+    "H:\\Meu Drive\\GitHub\\MeusProjetos\\c#\\CSharp\\AulaUdemy\\vscode\\00_exercicios_aulas\\areaTriangulo_objeto\\areaTriangulo_objeto.csproj": {}
   },
   "projects": {
-    "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\AulaUdemy\\vscode\\00_exercicios_aulas\\areaTriangulo_objeto\\areaTriangulo_objeto.csproj": {
+    "H:\\Meu Drive\\GitHub\\MeusProjetos\\c#\\CSharp\\AulaUdemy\\vscode\\00_exercicios_aulas\\areaTriangulo_objeto\\areaTriangulo_objeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\AulaUdemy\\vscode\\00_exercicios_aulas\\areaTriangulo_objeto\\areaTriangulo_objeto.csproj",
+        "projectUniqueName": "H:\\Meu Drive\\GitHub\\MeusProjetos\\c#\\CSharp\\AulaUdemy\\vscode\\00_exercicios_aulas\\areaTriangulo_objeto\\areaTriangulo_objeto.csproj",
         "projectName": "areaTriangulo_objeto",
-        "projectPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\AulaUdemy\\vscode\\00_exercicios_aulas\\areaTriangulo_objeto\\areaTriangulo_objeto.csproj",
+        "projectPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\c#\\CSharp\\AulaUdemy\\vscode\\00_exercicios_aulas\\areaTriangulo_objeto\\areaTriangulo_objeto.csproj",
         "packagesPath": "C:\\Users\\Jamile\\.nuget\\packages\\",
-        "outputPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\AulaUdemy\\vscode\\00_exercicios_aulas\\areaTriangulo_objeto\\obj\\",
+        "outputPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\c#\\CSharp\\AulaUdemy\\vscode\\00_exercicios_aulas\\areaTriangulo_objeto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jamile\\AppData\\Roaming\\NuGet\\NuGet.Config",

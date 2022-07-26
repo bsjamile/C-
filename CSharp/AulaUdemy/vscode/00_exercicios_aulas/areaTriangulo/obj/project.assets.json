@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\AulaUdemy\\vscode\\00_exercicios_aulas\\areaTriangulo\\areaTriangulo.csproj",
+      "projectUniqueName": "H:\\Meu Drive\\GitHub\\MeusProjetos\\c#\\CSharp\\AulaUdemy\\vscode\\00_exercicios_aulas\\areaTriangulo\\areaTriangulo.csproj",
       "projectName": "areaTriangulo",
-      "projectPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\AulaUdemy\\vscode\\00_exercicios_aulas\\areaTriangulo\\areaTriangulo.csproj",
+      "projectPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\c#\\CSharp\\AulaUdemy\\vscode\\00_exercicios_aulas\\areaTriangulo\\areaTriangulo.csproj",
       "packagesPath": "C:\\Users\\Jamile\\.nuget\\packages\\",
-      "outputPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\AulaUdemy\\vscode\\00_exercicios_aulas\\areaTriangulo\\obj\\",
+      "outputPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\c#\\CSharp\\AulaUdemy\\vscode\\00_exercicios_aulas\\areaTriangulo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jamile\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -11,6 +11,13 @@ namespace Point
 
             p.X = 10;
             p.Y = 20;
+
+            Console.WriteLine(p);
+
+            p = new Point();
+
+            Console.WriteLine(p);
+
             //Nullable<double> Z = null;
             double? y = null;
             double? w = 5.0;

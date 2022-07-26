@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\AulaUdemy\\vscode\\lista5\\lista5_1\\lista5_1\\lista5_1.csproj",
+      "projectUniqueName": "H:\\Meu Drive\\GitHub\\MeusProjetos\\c#\\CSharp\\AulaUdemy\\vscode\\lista5\\lista5_1\\lista5_1\\lista5_1.csproj",
       "projectName": "lista5_1",
-      "projectPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\AulaUdemy\\vscode\\lista5\\lista5_1\\lista5_1\\lista5_1.csproj",
+      "projectPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\c#\\CSharp\\AulaUdemy\\vscode\\lista5\\lista5_1\\lista5_1\\lista5_1.csproj",
       "packagesPath": "C:\\Users\\Jamile\\.nuget\\packages\\",
-      "outputPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\AulaUdemy\\vscode\\lista5\\lista5_1\\lista5_1\\obj\\",
+      "outputPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\c#\\CSharp\\AulaUdemy\\vscode\\lista5\\lista5_1\\lista5_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jamile\\AppData\\Roaming\\NuGet\\NuGet.Config",

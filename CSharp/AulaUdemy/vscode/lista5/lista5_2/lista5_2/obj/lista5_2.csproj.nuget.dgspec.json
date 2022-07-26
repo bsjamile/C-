@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\AulaUdemy\\vscode\\lista5\\lista5_2\\lista5_2\\lista5_2.csproj": {}
+    "H:\\Meu Drive\\GitHub\\MeusProjetos\\c#\\CSharp\\AulaUdemy\\vscode\\lista5\\lista5_2\\lista5_2\\lista5_2.csproj": {}
   },
   "projects": {
-    "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\AulaUdemy\\vscode\\lista5\\lista5_2\\lista5_2\\lista5_2.csproj": {
+    "H:\\Meu Drive\\GitHub\\MeusProjetos\\c#\\CSharp\\AulaUdemy\\vscode\\lista5\\lista5_2\\lista5_2\\lista5_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\AulaUdemy\\vscode\\lista5\\lista5_2\\lista5_2\\lista5_2.csproj",
+        "projectUniqueName": "H:\\Meu Drive\\GitHub\\MeusProjetos\\c#\\CSharp\\AulaUdemy\\vscode\\lista5\\lista5_2\\lista5_2\\lista5_2.csproj",
         "projectName": "lista5_2",
-        "projectPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\AulaUdemy\\vscode\\lista5\\lista5_2\\lista5_2\\lista5_2.csproj",
+        "projectPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\c#\\CSharp\\AulaUdemy\\vscode\\lista5\\lista5_2\\lista5_2\\lista5_2.csproj",
         "packagesPath": "C:\\Users\\Jamile\\.nuget\\packages\\",
-        "outputPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\AulaUdemy\\vscode\\lista5\\lista5_2\\lista5_2\\obj\\",
+        "outputPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\c#\\CSharp\\AulaUdemy\\vscode\\lista5\\lista5_2\\lista5_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jamile\\AppData\\Roaming\\NuGet\\NuGet.Config",

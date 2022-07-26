@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e1YplSDg6mBICJtXfX+gO0MhlVuYah5cg+GBBKS0gWimxec0FKZ/DKzAWRhYr1Eq/q+K98nkPJQl0BOt7kFPww==",
+  "success": true,
+  "projectFilePath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\c#\\CSharp\\AulaUdemy\\ws-vs2022\\VetorClassAluguelQuarto\\VetorClassAluguelQuarto\\VetorClassAluguelQuarto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jamile\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

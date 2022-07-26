@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\AulaUdemy\\vscode\\00_exercicios_aulas\\Produto\\Produto\\Produto.csproj",
+      "projectUniqueName": "H:\\Meu Drive\\GitHub\\MeusProjetos\\c#\\CSharp\\AulaUdemy\\vscode\\00_exercicios_aulas\\Produto\\Produto\\Produto.csproj",
       "projectName": "Produto",
-      "projectPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\AulaUdemy\\vscode\\00_exercicios_aulas\\Produto\\Produto\\Produto.csproj",
+      "projectPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\c#\\CSharp\\AulaUdemy\\vscode\\00_exercicios_aulas\\Produto\\Produto\\Produto.csproj",
       "packagesPath": "C:\\Users\\Jamile\\.nuget\\packages\\",
-      "outputPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\AulaUdemy\\vscode\\00_exercicios_aulas\\Produto\\Produto\\obj\\",
+      "outputPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\c#\\CSharp\\AulaUdemy\\vscode\\00_exercicios_aulas\\Produto\\Produto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jamile\\AppData\\Roaming\\NuGet\\NuGet.Config",

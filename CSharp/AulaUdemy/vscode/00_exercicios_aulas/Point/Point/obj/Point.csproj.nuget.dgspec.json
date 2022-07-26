@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\AulaUdemy\\vscode\\00_exercicios_aulas\\Point\\Point\\Point.csproj": {}
+    "H:\\Meu Drive\\GitHub\\MeusProjetos\\c#\\CSharp\\AulaUdemy\\vscode\\00_exercicios_aulas\\Point\\Point\\Point.csproj": {}
   },
   "projects": {
-    "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\AulaUdemy\\vscode\\00_exercicios_aulas\\Point\\Point\\Point.csproj": {
+    "H:\\Meu Drive\\GitHub\\MeusProjetos\\c#\\CSharp\\AulaUdemy\\vscode\\00_exercicios_aulas\\Point\\Point\\Point.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\AulaUdemy\\vscode\\00_exercicios_aulas\\Point\\Point\\Point.csproj",
+        "projectUniqueName": "H:\\Meu Drive\\GitHub\\MeusProjetos\\c#\\CSharp\\AulaUdemy\\vscode\\00_exercicios_aulas\\Point\\Point\\Point.csproj",
         "projectName": "Point",
-        "projectPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\AulaUdemy\\vscode\\00_exercicios_aulas\\Point\\Point\\Point.csproj",
+        "projectPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\c#\\CSharp\\AulaUdemy\\vscode\\00_exercicios_aulas\\Point\\Point\\Point.csproj",
         "packagesPath": "C:\\Users\\Jamile\\.nuget\\packages\\",
-        "outputPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\AulaUdemy\\vscode\\00_exercicios_aulas\\Point\\Point\\obj\\",
+        "outputPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\c#\\CSharp\\AulaUdemy\\vscode\\00_exercicios_aulas\\Point\\Point\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jamile\\AppData\\Roaming\\NuGet\\NuGet.Config",

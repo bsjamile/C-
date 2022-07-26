@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XwZMzHmH40dJxqVfopJjja4f/nVgpHU35id/r6wi/7Sgq5gjI9ymtuZDdc5JZEA6S4qPZXdEABTYFMGBdSiM1Q==",
+  "success": true,
+  "projectFilePath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\c#\\CSharp\\AulaUdemy\\ws-vs2022\\vetorAltura\\vetorAltura\\vetorAltura.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jamile\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

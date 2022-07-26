@@ -1,0 +1,15 @@
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\SwitchCase\SwitchCase\bin\Debug\net6.0\SwitchCase.exe
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\SwitchCase\SwitchCase\bin\Debug\net6.0\SwitchCase.deps.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\SwitchCase\SwitchCase\bin\Debug\net6.0\SwitchCase.runtimeconfig.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\SwitchCase\SwitchCase\bin\Debug\net6.0\SwitchCase.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\SwitchCase\SwitchCase\bin\Debug\net6.0\SwitchCase.pdb
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\SwitchCase\SwitchCase\obj\Debug\net6.0\SwitchCase.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\SwitchCase\SwitchCase\obj\Debug\net6.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\SwitchCase\SwitchCase\obj\Debug\net6.0\SwitchCase.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\SwitchCase\SwitchCase\obj\Debug\net6.0\SwitchCase.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\SwitchCase\SwitchCase\obj\Debug\net6.0\SwitchCase.csproj.CoreCompileInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\SwitchCase\SwitchCase\obj\Debug\net6.0\SwitchCase.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\SwitchCase\SwitchCase\obj\Debug\net6.0\refint\SwitchCase.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\SwitchCase\SwitchCase\obj\Debug\net6.0\SwitchCase.pdb
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\SwitchCase\SwitchCase\obj\Debug\net6.0\SwitchCase.genruntimeconfig.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\SwitchCase\SwitchCase\obj\Debug\net6.0\ref\SwitchCase.dll

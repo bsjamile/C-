@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\AulaUdemy\\vscode\\lista3\\lista3_1\\lista3_1.csproj": {}
+    "H:\\Meu Drive\\GitHub\\MeusProjetos\\c#\\CSharp\\AulaUdemy\\vscode\\lista3\\lista3_1\\lista3_1.csproj": {}
   },
   "projects": {
-    "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\AulaUdemy\\vscode\\lista3\\lista3_1\\lista3_1.csproj": {
+    "H:\\Meu Drive\\GitHub\\MeusProjetos\\c#\\CSharp\\AulaUdemy\\vscode\\lista3\\lista3_1\\lista3_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\AulaUdemy\\vscode\\lista3\\lista3_1\\lista3_1.csproj",
+        "projectUniqueName": "H:\\Meu Drive\\GitHub\\MeusProjetos\\c#\\CSharp\\AulaUdemy\\vscode\\lista3\\lista3_1\\lista3_1.csproj",
         "projectName": "lista3_1",
-        "projectPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\AulaUdemy\\vscode\\lista3\\lista3_1\\lista3_1.csproj",
+        "projectPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\c#\\CSharp\\AulaUdemy\\vscode\\lista3\\lista3_1\\lista3_1.csproj",
         "packagesPath": "C:\\Users\\Jamile\\.nuget\\packages\\",
-        "outputPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\AulaUdemy\\vscode\\lista3\\lista3_1\\obj\\",
+        "outputPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\c#\\CSharp\\AulaUdemy\\vscode\\lista3\\lista3_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jamile\\AppData\\Roaming\\NuGet\\NuGet.Config",

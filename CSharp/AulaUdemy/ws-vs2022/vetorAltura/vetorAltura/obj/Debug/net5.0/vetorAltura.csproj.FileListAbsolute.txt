@@ -1,0 +1,16 @@
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\vetorAltura\vetorAltura\bin\Debug\net5.0\vetorAltura.exe
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\vetorAltura\vetorAltura\bin\Debug\net5.0\vetorAltura.deps.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\vetorAltura\vetorAltura\bin\Debug\net5.0\vetorAltura.runtimeconfig.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\vetorAltura\vetorAltura\bin\Debug\net5.0\vetorAltura.runtimeconfig.dev.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\vetorAltura\vetorAltura\bin\Debug\net5.0\vetorAltura.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\vetorAltura\vetorAltura\bin\Debug\net5.0\vetorAltura.pdb
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\vetorAltura\vetorAltura\obj\Debug\net5.0\vetorAltura.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\vetorAltura\vetorAltura\obj\Debug\net5.0\vetorAltura.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\vetorAltura\vetorAltura\obj\Debug\net5.0\vetorAltura.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\vetorAltura\vetorAltura\obj\Debug\net5.0\vetorAltura.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\vetorAltura\vetorAltura\obj\Debug\net5.0\vetorAltura.csproj.CoreCompileInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\vetorAltura\vetorAltura\obj\Debug\net5.0\vetorAltura.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\vetorAltura\vetorAltura\obj\Debug\net5.0\refint\vetorAltura.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\vetorAltura\vetorAltura\obj\Debug\net5.0\vetorAltura.pdb
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\vetorAltura\vetorAltura\obj\Debug\net5.0\vetorAltura.genruntimeconfig.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\vetorAltura\vetorAltura\obj\Debug\net5.0\ref\vetorAltura.dll

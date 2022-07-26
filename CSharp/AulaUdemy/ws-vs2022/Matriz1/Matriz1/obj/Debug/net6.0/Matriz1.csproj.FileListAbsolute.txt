@@ -1,0 +1,15 @@
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\Matriz1\Matriz1\bin\Debug\net6.0\Matriz1.exe
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\Matriz1\Matriz1\bin\Debug\net6.0\Matriz1.deps.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\Matriz1\Matriz1\bin\Debug\net6.0\Matriz1.runtimeconfig.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\Matriz1\Matriz1\bin\Debug\net6.0\Matriz1.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\Matriz1\Matriz1\bin\Debug\net6.0\Matriz1.pdb
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\Matriz1\Matriz1\obj\Debug\net6.0\Matriz1.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\Matriz1\Matriz1\obj\Debug\net6.0\Matriz1.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\Matriz1\Matriz1\obj\Debug\net6.0\Matriz1.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\Matriz1\Matriz1\obj\Debug\net6.0\Matriz1.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\Matriz1\Matriz1\obj\Debug\net6.0\Matriz1.csproj.CoreCompileInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\Matriz1\Matriz1\obj\Debug\net6.0\Matriz1.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\Matriz1\Matriz1\obj\Debug\net6.0\refint\Matriz1.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\Matriz1\Matriz1\obj\Debug\net6.0\Matriz1.pdb
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\Matriz1\Matriz1\obj\Debug\net6.0\Matriz1.genruntimeconfig.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\Matriz1\Matriz1\obj\Debug\net6.0\ref\Matriz1.dll

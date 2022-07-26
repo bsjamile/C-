@@ -1,0 +1,15 @@
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ListEmployee\ListEmployee\bin\Debug\net6.0\ListEmployee.exe
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ListEmployee\ListEmployee\bin\Debug\net6.0\ListEmployee.deps.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ListEmployee\ListEmployee\bin\Debug\net6.0\ListEmployee.runtimeconfig.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ListEmployee\ListEmployee\bin\Debug\net6.0\ListEmployee.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ListEmployee\ListEmployee\bin\Debug\net6.0\ListEmployee.pdb
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ListEmployee\ListEmployee\obj\Debug\net6.0\ListEmployee.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ListEmployee\ListEmployee\obj\Debug\net6.0\ListEmployee.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ListEmployee\ListEmployee\obj\Debug\net6.0\ListEmployee.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ListEmployee\ListEmployee\obj\Debug\net6.0\ListEmployee.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ListEmployee\ListEmployee\obj\Debug\net6.0\ListEmployee.csproj.CoreCompileInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ListEmployee\ListEmployee\obj\Debug\net6.0\ListEmployee.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ListEmployee\ListEmployee\obj\Debug\net6.0\refint\ListEmployee.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ListEmployee\ListEmployee\obj\Debug\net6.0\ListEmployee.pdb
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ListEmployee\ListEmployee\obj\Debug\net6.0\ListEmployee.genruntimeconfig.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ListEmployee\ListEmployee\obj\Debug\net6.0\ref\ListEmployee.dll

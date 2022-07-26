@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3FKfAo+Gcal+NsUgIfkGeoBT5UxnWl+ZtUoEsSNgy7OYbgb7OxrkfsenBBEiFuzaR6YXth1i4YYDV7u9qymPdA==",
+  "success": true,
+  "projectFilePath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\c#\\CSharp\\AulaUdemy\\ws-vs2022\\Construtor\\Construtor\\Construtor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jamile\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

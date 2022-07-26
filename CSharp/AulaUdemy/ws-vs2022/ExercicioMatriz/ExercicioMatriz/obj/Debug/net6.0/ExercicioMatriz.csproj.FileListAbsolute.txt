@@ -1,0 +1,15 @@
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ExercicioMatriz\ExercicioMatriz\bin\Debug\net6.0\ExercicioMatriz.exe
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ExercicioMatriz\ExercicioMatriz\bin\Debug\net6.0\ExercicioMatriz.deps.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ExercicioMatriz\ExercicioMatriz\bin\Debug\net6.0\ExercicioMatriz.runtimeconfig.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ExercicioMatriz\ExercicioMatriz\bin\Debug\net6.0\ExercicioMatriz.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ExercicioMatriz\ExercicioMatriz\bin\Debug\net6.0\ExercicioMatriz.pdb
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.csproj.CoreCompileInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\refint\ExercicioMatriz.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.pdb
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.genruntimeconfig.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\ws-vs2022\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\ref\ExercicioMatriz.dll
