@@ -1,0 +1,15 @@
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\FuncoesParaString\FuncoesParaString\bin\Debug\net6.0\FuncoesParaString.exe
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\FuncoesParaString\FuncoesParaString\bin\Debug\net6.0\FuncoesParaString.deps.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\FuncoesParaString\FuncoesParaString\bin\Debug\net6.0\FuncoesParaString.runtimeconfig.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\FuncoesParaString\FuncoesParaString\bin\Debug\net6.0\FuncoesParaString.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\FuncoesParaString\FuncoesParaString\bin\Debug\net6.0\FuncoesParaString.pdb
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\FuncoesParaString\FuncoesParaString\obj\Debug\net6.0\FuncoesParaString.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\FuncoesParaString\FuncoesParaString\obj\Debug\net6.0\FuncoesParaString.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\FuncoesParaString\FuncoesParaString\obj\Debug\net6.0\FuncoesParaString.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\FuncoesParaString\FuncoesParaString\obj\Debug\net6.0\FuncoesParaString.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\FuncoesParaString\FuncoesParaString\obj\Debug\net6.0\FuncoesParaString.csproj.CoreCompileInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\FuncoesParaString\FuncoesParaString\obj\Debug\net6.0\FuncoesParaString.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\FuncoesParaString\FuncoesParaString\obj\Debug\net6.0\refint\FuncoesParaString.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\FuncoesParaString\FuncoesParaString\obj\Debug\net6.0\FuncoesParaString.pdb
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\FuncoesParaString\FuncoesParaString\obj\Debug\net6.0\FuncoesParaString.genruntimeconfig.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\FuncoesParaString\FuncoesParaString\obj\Debug\net6.0\ref\FuncoesParaString.dll

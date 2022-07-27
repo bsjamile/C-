@@ -1,0 +1,15 @@
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PropriedadesTimeSpan\PropriedadesTimeSpan\bin\Debug\net6.0\PropriedadesTimeSpan.exe
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PropriedadesTimeSpan\PropriedadesTimeSpan\bin\Debug\net6.0\PropriedadesTimeSpan.deps.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PropriedadesTimeSpan\PropriedadesTimeSpan\bin\Debug\net6.0\PropriedadesTimeSpan.runtimeconfig.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PropriedadesTimeSpan\PropriedadesTimeSpan\bin\Debug\net6.0\PropriedadesTimeSpan.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PropriedadesTimeSpan\PropriedadesTimeSpan\bin\Debug\net6.0\PropriedadesTimeSpan.pdb
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PropriedadesTimeSpan\PropriedadesTimeSpan\obj\Debug\net6.0\PropriedadesTimeSpan.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PropriedadesTimeSpan\PropriedadesTimeSpan\obj\Debug\net6.0\PropriedadesTimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PropriedadesTimeSpan\PropriedadesTimeSpan\obj\Debug\net6.0\PropriedadesTimeSpan.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PropriedadesTimeSpan\PropriedadesTimeSpan\obj\Debug\net6.0\PropriedadesTimeSpan.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PropriedadesTimeSpan\PropriedadesTimeSpan\obj\Debug\net6.0\PropriedadesTimeSpan.csproj.CoreCompileInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PropriedadesTimeSpan\PropriedadesTimeSpan\obj\Debug\net6.0\PropriedadesTimeSpan.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PropriedadesTimeSpan\PropriedadesTimeSpan\obj\Debug\net6.0\refint\PropriedadesTimeSpan.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PropriedadesTimeSpan\PropriedadesTimeSpan\obj\Debug\net6.0\PropriedadesTimeSpan.pdb
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PropriedadesTimeSpan\PropriedadesTimeSpan\obj\Debug\net6.0\PropriedadesTimeSpan.genruntimeconfig.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PropriedadesTimeSpan\PropriedadesTimeSpan\obj\Debug\net6.0\ref\PropriedadesTimeSpan.dll

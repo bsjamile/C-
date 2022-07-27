@@ -1,0 +1,15 @@
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\DateTime\DateTime\bin\Debug\net6.0\TipoDateTime.exe
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\DateTime\DateTime\bin\Debug\net6.0\TipoDateTime.deps.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\DateTime\DateTime\bin\Debug\net6.0\TipoDateTime.runtimeconfig.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\DateTime\DateTime\bin\Debug\net6.0\TipoDateTime.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\DateTime\DateTime\bin\Debug\net6.0\TipoDateTime.pdb
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\DateTime\DateTime\obj\Debug\net6.0\TipoDateTime.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\DateTime\DateTime\obj\Debug\net6.0\TipoDateTime.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\DateTime\DateTime\obj\Debug\net6.0\TipoDateTime.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\DateTime\DateTime\obj\Debug\net6.0\TipoDateTime.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\DateTime\DateTime\obj\Debug\net6.0\TipoDateTime.csproj.CoreCompileInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\DateTime\DateTime\obj\Debug\net6.0\TipoDateTime.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\DateTime\DateTime\obj\Debug\net6.0\refint\TipoDateTime.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\DateTime\DateTime\obj\Debug\net6.0\TipoDateTime.pdb
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\DateTime\DateTime\obj\Debug\net6.0\TipoDateTime.genruntimeconfig.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\DateTime\DateTime\obj\Debug\net6.0\ref\TipoDateTime.dll

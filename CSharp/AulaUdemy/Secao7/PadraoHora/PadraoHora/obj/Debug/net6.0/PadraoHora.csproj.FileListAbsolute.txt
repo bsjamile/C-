@@ -1,0 +1,15 @@
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PadraoHora\PadraoHora\bin\Debug\net6.0\PadraoHora.exe
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PadraoHora\PadraoHora\bin\Debug\net6.0\PadraoHora.deps.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PadraoHora\PadraoHora\bin\Debug\net6.0\PadraoHora.runtimeconfig.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PadraoHora\PadraoHora\bin\Debug\net6.0\PadraoHora.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PadraoHora\PadraoHora\bin\Debug\net6.0\PadraoHora.pdb
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PadraoHora\PadraoHora\obj\Debug\net6.0\PadraoHora.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PadraoHora\PadraoHora\obj\Debug\net6.0\PadraoHora.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PadraoHora\PadraoHora\obj\Debug\net6.0\PadraoHora.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PadraoHora\PadraoHora\obj\Debug\net6.0\PadraoHora.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PadraoHora\PadraoHora\obj\Debug\net6.0\PadraoHora.csproj.CoreCompileInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PadraoHora\PadraoHora\obj\Debug\net6.0\PadraoHora.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PadraoHora\PadraoHora\obj\Debug\net6.0\refint\PadraoHora.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PadraoHora\PadraoHora\obj\Debug\net6.0\PadraoHora.pdb
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PadraoHora\PadraoHora\obj\Debug\net6.0\PadraoHora.genruntimeconfig.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PadraoHora\PadraoHora\obj\Debug\net6.0\ref\PadraoHora.dll

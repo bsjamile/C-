@@ -1,0 +1,15 @@
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\CondicionalTernaria\CondicionalTernaria\bin\Debug\net6.0\CondicionalTernaria.exe
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\CondicionalTernaria\CondicionalTernaria\bin\Debug\net6.0\CondicionalTernaria.deps.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\CondicionalTernaria\CondicionalTernaria\bin\Debug\net6.0\CondicionalTernaria.runtimeconfig.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\CondicionalTernaria\CondicionalTernaria\bin\Debug\net6.0\CondicionalTernaria.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\CondicionalTernaria\CondicionalTernaria\bin\Debug\net6.0\CondicionalTernaria.pdb
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\CondicionalTernaria\CondicionalTernaria\obj\Debug\net6.0\CondicionalTernaria.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\CondicionalTernaria\CondicionalTernaria\obj\Debug\net6.0\CondicionalTernaria.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\CondicionalTernaria\CondicionalTernaria\obj\Debug\net6.0\CondicionalTernaria.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\CondicionalTernaria\CondicionalTernaria\obj\Debug\net6.0\CondicionalTernaria.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\CondicionalTernaria\CondicionalTernaria\obj\Debug\net6.0\CondicionalTernaria.csproj.CoreCompileInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\CondicionalTernaria\CondicionalTernaria\obj\Debug\net6.0\CondicionalTernaria.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\CondicionalTernaria\CondicionalTernaria\obj\Debug\net6.0\refint\CondicionalTernaria.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\CondicionalTernaria\CondicionalTernaria\obj\Debug\net6.0\CondicionalTernaria.pdb
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\CondicionalTernaria\CondicionalTernaria\obj\Debug\net6.0\CondicionalTernaria.genruntimeconfig.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\CondicionalTernaria\CondicionalTernaria\obj\Debug\net6.0\ref\CondicionalTernaria.dll

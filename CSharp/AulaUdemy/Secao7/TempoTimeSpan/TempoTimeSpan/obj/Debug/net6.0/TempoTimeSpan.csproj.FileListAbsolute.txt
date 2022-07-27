@@ -1,0 +1,15 @@
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\TempoTimeSpan\TempoTimeSpan\bin\Debug\net6.0\TempoTimeSpan.exe
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\TempoTimeSpan\TempoTimeSpan\bin\Debug\net6.0\TempoTimeSpan.deps.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\TempoTimeSpan\TempoTimeSpan\bin\Debug\net6.0\TempoTimeSpan.runtimeconfig.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\TempoTimeSpan\TempoTimeSpan\bin\Debug\net6.0\TempoTimeSpan.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\TempoTimeSpan\TempoTimeSpan\bin\Debug\net6.0\TempoTimeSpan.pdb
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\TempoTimeSpan\TempoTimeSpan\obj\Debug\net6.0\TempoTimeSpan.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\TempoTimeSpan\TempoTimeSpan\obj\Debug\net6.0\TempoTimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\TempoTimeSpan\TempoTimeSpan\obj\Debug\net6.0\TempoTimeSpan.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\TempoTimeSpan\TempoTimeSpan\obj\Debug\net6.0\TempoTimeSpan.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\TempoTimeSpan\TempoTimeSpan\obj\Debug\net6.0\TempoTimeSpan.csproj.CoreCompileInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\TempoTimeSpan\TempoTimeSpan\obj\Debug\net6.0\TempoTimeSpan.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\TempoTimeSpan\TempoTimeSpan\obj\Debug\net6.0\refint\TempoTimeSpan.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\TempoTimeSpan\TempoTimeSpan\obj\Debug\net6.0\TempoTimeSpan.pdb
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\TempoTimeSpan\TempoTimeSpan\obj\Debug\net6.0\TempoTimeSpan.genruntimeconfig.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\TempoTimeSpan\TempoTimeSpan\obj\Debug\net6.0\ref\TempoTimeSpan.dll

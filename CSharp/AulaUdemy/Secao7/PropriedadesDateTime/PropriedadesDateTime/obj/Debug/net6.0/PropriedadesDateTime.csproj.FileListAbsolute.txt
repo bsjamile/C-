@@ -1,0 +1,15 @@
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PropriedadesDateTime\PropriedadesDateTime\bin\Debug\net6.0\PropriedadesDateTime.exe
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PropriedadesDateTime\PropriedadesDateTime\bin\Debug\net6.0\PropriedadesDateTime.deps.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PropriedadesDateTime\PropriedadesDateTime\bin\Debug\net6.0\PropriedadesDateTime.runtimeconfig.json
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PropriedadesDateTime\PropriedadesDateTime\bin\Debug\net6.0\PropriedadesDateTime.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PropriedadesDateTime\PropriedadesDateTime\bin\Debug\net6.0\PropriedadesDateTime.pdb
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PropriedadesDateTime\PropriedadesDateTime\obj\Debug\net6.0\PropriedadesDateTime.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PropriedadesDateTime\PropriedadesDateTime\obj\Debug\net6.0\PropriedadesDateTime.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PropriedadesDateTime\PropriedadesDateTime\obj\Debug\net6.0\PropriedadesDateTime.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PropriedadesDateTime\PropriedadesDateTime\obj\Debug\net6.0\PropriedadesDateTime.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PropriedadesDateTime\PropriedadesDateTime\obj\Debug\net6.0\PropriedadesDateTime.csproj.CoreCompileInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PropriedadesDateTime\PropriedadesDateTime\obj\Debug\net6.0\PropriedadesDateTime.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PropriedadesDateTime\PropriedadesDateTime\obj\Debug\net6.0\refint\PropriedadesDateTime.dll
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PropriedadesDateTime\PropriedadesDateTime\obj\Debug\net6.0\PropriedadesDateTime.pdb
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PropriedadesDateTime\PropriedadesDateTime\obj\Debug\net6.0\PropriedadesDateTime.genruntimeconfig.cache
+H:\Meu Drive\GitHub\MeusProjetos\c#\CSharp\AulaUdemy\Secao7\PropriedadesDateTime\PropriedadesDateTime\obj\Debug\net6.0\ref\PropriedadesDateTime.dll
